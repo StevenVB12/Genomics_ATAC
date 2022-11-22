@@ -1,0 +1,2 @@
+start	end	length	IDY	missing1	missing2	
+141920703	141921323	620	0.4081	0.0274	0.4887	
