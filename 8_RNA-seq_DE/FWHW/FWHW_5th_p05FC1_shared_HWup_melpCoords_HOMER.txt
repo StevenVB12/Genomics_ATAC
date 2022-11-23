@@ -1,0 +1,24 @@
+PeakID (cmd=annotatePeaks.pl FWHW_5th_p05FC1_shared_HWup_melpCoords.bed /work/rpapa/share/REF/Hmel2/Hmel2.fa -gff /home/rpapa/sbelleghem/share/REF/GFF/Heliconius_melpomene_melpomene_Hmel2.gff3 -annStats FWHW_5th_p05FC1_shared_HWup_melpCoords_blabla.txt)	Chr	Start	End	Strand	Peak Score	Focus Ratio/Region Size	Annotation	Detailed Annotation	Distance to TSS	Nearest PromoterID	Entrez ID	Nearest Unigene	Nearest Refseq	Nearest Ensembl	Gene Name	Gene Alias	Gene Description	Gene Type
+11	Hmel203067	411582	412425	+	0	NA	Intergenic	Intergenic	11776	ID=HMEL036139g1.t1-E2;Parent=HMEL036139g1.t1								
+21	Hmel203067	482844	483492	+	0	NA	promoter-TSS (ID=HMEL025034-RA-E1;Parent=HMEL025034-RA)	-promoter-TSS (ID=HMEL025034-RA-E1;Parent=HMEL025034-RA)	-24	ID=HMEL025034-RC-E1;Parent=HMEL025034-RC								
+7	Hmel203067	355390	355707	+	0	NA	promoter-TSS (ID=HMEL036137g1.t1-E1;Parent=HMEL036137g1.t1)	-promoter-TSS (ID=HMEL036137g1.t1-E1;Parent=HMEL036137g1.t1)	-366	ID=HMEL036137g1.t1-E1;Parent=HMEL036137g1.t1								
+17	Hmel203067	465612	466379	+	0	NA	TTS (ID=HMEL036140g1.t1-E1;Parent=HMEL036140g1.t1)	-TTS (ID=HMEL036140g1.t1-E1;Parent=HMEL036140g1.t1)	413	ID=HMEL036140g1.t1-E1;Parent=HMEL036140g1.t1								
+2	Hmel207023	456800	457070	+	0	NA	Intergenic	Intergenic	32616	ID=HMEL005443g1.t1-E20;Parent=HMEL005443g1.t1								
+22	Hmel203067	483893	484165	+	0	NA	TTS (ID=HMEL025034-RC-E1;Parent=HMEL025034-RC)	-TTS (ID=HMEL025034-RC-E1;Parent=HMEL025034-RC)	187	ID=HMEL025034-RC-E2;Parent=HMEL025034-RC								
+1	Hmel206009	1606933	1607595	+	0	NA	Intergenic	Intergenic	-14287	ID=HMEL016777g1.t1-E1;Parent=HMEL016777g1.t1								
+18	Hmel203067	473408	473793	+	0	NA	Intergenic	Intergenic	-7192	ID=HMEL036140g1.t1-E1;Parent=HMEL036140g1.t1								
+23	Hmel203067	485914	487248	+	0	NA	Intergenic	Intergenic	2739	ID=HMEL025034-RC-E2;Parent=HMEL025034-RC								
+16	Hmel203067	456769	457226	+	0	NA	Intergenic	Intergenic	9411	ID=HMEL036140g1.t1-E1;Parent=HMEL036140g1.t1								
+13	Hmel203067	436209	436856	+	0	NA	Intergenic	Intergenic	-9868	ID=HMEL036139g1.t1-E1;Parent=HMEL036139g1.t1								
+6	Hmel220003	1387633	1388349	+	0	NA	Intergenic	Intergenic	-2595	ID=HMEL017022g1.t1-E1;Parent=HMEL017022g1.t1								
+3	Hmel207023	501335	501754	+	0	NA	Intergenic	Intergenic	-11311	ID=HMEL037742g1.t1-E1;Parent=HMEL037742g1.t1								
+9	Hmel203067	379210	379671	+	0	NA	Intergenic	Intergenic	16358	ID=HMEL036138g1.t1-E1;Parent=HMEL036138g1.t1								
+12	Hmel203067	429286	429574	+	0	NA	Intergenic	Intergenic	-2766	ID=HMEL036139g1.t1-E1;Parent=HMEL036139g1.t1								
+20	Hmel203067	479564	479731	+	0	NA	Intergenic	Intergenic	-3545	ID=HMEL025034-RC-E1;Parent=HMEL025034-RC								
+14	Hmel203067	447837	448913	+	0	NA	Intergenic	Intergenic	18033	ID=HMEL036140g1.t1-E1;Parent=HMEL036140g1.t1								
+15	Hmel203067	452361	452884	+	0	NA	Intergenic	Intergenic	13786	ID=HMEL036140g1.t1-E1;Parent=HMEL036140g1.t1								
+8	Hmel203067	378553	378915	+	0	NA	Intergenic	Intergenic	17064	ID=HMEL036138g1.t1-E1;Parent=HMEL036138g1.t1								
+4	Hmel213013	215396	216180	+	0	NA	Intergenic	Intergenic	1432	ID=HMEL015354g1.t1-E1;Parent=HMEL015354g1.t1								
+19	Hmel203067	474324	474522	+	0	NA	Intergenic	Intergenic	-8015	ID=HMEL036140g1.t1-E1;Parent=HMEL036140g1.t1								
+10	Hmel203067	394654	396376	+	0	NA	promoter-TSS (ID=HMEL025056-RA-E1;Parent=HMEL025056-RA)	-promoter-TSS (ID=HMEL025056-RA-E1;Parent=HMEL025056-RA)	283	ID=HMEL036138g1.t1-E1;Parent=HMEL036138g1.t1								
+5	Hmel216012	130701	131035	+	0	NA	Intergenic	Intergenic	9989	ID=HMEL033594g1.t1-E2;Parent=HMEL033594g1.t1								

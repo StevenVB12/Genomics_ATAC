@@ -2,7 +2,7 @@
 
 ### 1. PAN genome assembly
 
-Uses the seq-seq-pan software (https://gitlab.com/rki_bioinformatics/seq-seq-pan) to generate an .xmfa multiple genome alignment file. 
+Uses the seq-seq-pan software (https://gitlab.com/rki_bioinformatics/seq-seq-pan) to generate an .xmfa multiple genome alignment file. Genomes and gff files are available through lepbase.org.
 
 ```
 Run_seq-seq-pan.sh
@@ -127,7 +127,24 @@ Run_bedgraphs_map_to_PAN_postprocessing.sh
 ```
 
 ### 7. Differential accessibility analyses
+
+Calculate size factors (used when scaling and combining bedgraphs).
 ```
+ATAC_sizefactor.R
+```
+
+R code for differential accessibility (DA) analyses.
+Includes:
+- Code to match H. erato and H. melpomene peak counts
+- code for DA between developmental time points, wings and sections
+- Code for PCA
+- Merging of DA peaks with DNA sequence conservation
+- Foldchange correlation analysis
+- Code to output DA peak sets
+```
+ATAC_DA_erato_melp_development.R
+ATAC_DA_erato_melp_FWHW.R
+ATAC_DA_erato_melp_sections.R
 ```
 
 ### 8. Differential expression analyses
@@ -168,6 +185,23 @@ Differential expression forewing sections.
 diff_expression_analysis_sections.R
 ```
 
+
+Identify genes close to DA ATAC-seq peak.
+```
+Run_homer_development.sh
+Run_homer_FWHW.sh
+Run_homer_sections.sh
+```
+
+Correlate ATAC-seq accessibility with gene expression.
+```
+# Over development
+shared_unique_development_expression.R
+
+# between forewing and hindwing
+shared_unique_FWHW_expression.R
+```
+
 ### 9. ATAC-seq peak conservation
 
 Python script to calculate conservation of intervals between pair of genomes.
@@ -185,8 +219,18 @@ Summaries and visualisation in R.
 calculate_IDY_mean.R
 ```
 
-### 10. MEME
+### 10. TF enrichment
+
+Run meme-chip to find TF enrichment patterns between tissues and time points.
 ```
+Run_meme_development.sh
+Run_meme_FWHW.sh
+Run_meme_sections.sh
+```
+
+Parse meme-chip html outputs and extract TFs and enrichment values.
+```
+parse_MEME.py
 ```
 
 ### 11. Color pattern analysis of optix CRE mutants

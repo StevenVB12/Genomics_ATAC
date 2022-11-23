@@ -1,0 +1,2 @@
+PeakID (cmd=annotatePeaks.pl sections_D2_FMup_rest_erato.bed.bed /work/rpapa/share/REF/H_erato_dem/Herato_final.fasta -gff ../Heliconius_erato_demophoon_v1.gff3 -annStats homer.info)	Chr	Start	End	Strand	Peak Score	Focus Ratio/Region Size	Annotation	Detailed Annotation	Distance to TSS	Nearest PromoterID	Entrez ID	Nearest Unigene	Nearest Refseq	Nearest Ensembl	Gene Name	Gene Alias	Gene Description	Gene Type
+1	Herato0101	14118589	14118997	+	0	NA	Intergenic	Intergenic	15364	ID=evm.model.Herato0101.507-E2;Parent=evm.model.Herato0101.507								

@@ -1,0 +1,694 @@
+PeakID (cmd=annotatePeaks.pl sections_D1_FDdown_rest_erato.bed.bed /work/rpapa/share/REF/H_erato_dem/Herato_final.fasta -gff ../Heliconius_erato_demophoon_v1.gff3 -annStats homer.info)	Chr	Start	End	Strand	Peak Score	Focus Ratio/Region Size	Annotation	Detailed Annotation	Distance to TSS	Nearest PromoterID	Entrez ID	Nearest Unigene	Nearest Refseq	Nearest Ensembl	Gene Name	Gene Alias	Gene Description	Gene Type
+130	Herato1001	4645111	4645969	+	0	NA	Intergenic	Intergenic	40986	ID=evm.model.Herato1001.159-E5;Parent=evm.model.Herato1001.159								
+176	Herato1102	477384	477574	+	0	NA	Intergenic	Intergenic	-20208	ID=evm.model.Herato1102.12-E1;Parent=evm.model.Herato1102.12								
+573	Herato1301	1063374	1063774	+	0	NA	Intergenic	Intergenic	30082	ID=evm.model.Herato1301.33.1-E1;Parent=evm.model.Herato1301.33.1								
+120	Herato1301	5468827	5469039	+	0	NA	promoter-TSS (ID=evm.model.Herato1301.194-E5;Parent=evm.model.Herato1301.194)	-promoter-TSS (ID=evm.model.Herato1301.194-E5;Parent=evm.model.Herato1301.194)	-12	ID=evm.model.Herato1301.194-E5;Parent=evm.model.Herato1301.194								
+480	Herato0606	5494742	5494992	+	0	NA	Intergenic	Intergenic	-2389	ID=evm.model.Herato0606.182.2-E2;Parent=evm.model.Herato0606.182.2								
+615	Herato1601	4439524	4440652	+	0	NA	Intergenic	Intergenic	-8379	ID=evm.model.Herato1601.84-E2;Parent=evm.model.Herato1601.84								
+105	Herato0901	5175615	5175914	+	0	NA	TTS (ID=evm.model.Herato0901.142-E2;Parent=evm.model.Herato0901.142)	-TTS (ID=evm.model.Herato0901.142-E2;Parent=evm.model.Herato0901.142)	670	ID=evm.model.Herato0901.142-E2;Parent=evm.model.Herato0901.142								
+557	Herato1108	7151127	7151521	+	0	NA	Intergenic	Intergenic	-7243	ID=evm.model.Herato1108.317-E1;Parent=evm.model.Herato1108.317								
+686	Herato2001	16847364	16847711	+	0	NA	Intergenic	Intergenic	6174	ID=evm.model.Herato2001.652-E20;Parent=evm.model.Herato2001.652								
+447	Herato0310	5477663	5478211	+	0	NA	Intergenic	Intergenic	-5743	ID=evm.model.Herato0310.128-E3;Parent=evm.model.Herato0310.128								
+388	Herato0403	244179	244416	+	0	NA	Intergenic	Intergenic	-55635	ID=evm.model.Herato0403.6-E1;Parent=evm.model.Herato0403.6								
+666	Herato1904	3261612	3261915	+	0	NA	Intergenic	Intergenic	5353	ID=evm.model.Herato1904.117-E1;Parent=evm.model.Herato1904.117								
+368	Herato1701	2096140	2096801	+	0	NA	Intergenic	Intergenic	-28546	ID=evm.model.Herato1701.57.1-E1;Parent=evm.model.Herato1701.57.1								
+257	Herato1603	2852523	2853150	+	0	NA	Intergenic	Intergenic	67208	ID=evm.model.Herato1603.83-E1;Parent=evm.model.Herato1603.83								
+198	Herato1108	14154732	14155226	+	0	NA	Intergenic	Intergenic	-14162	ID=evm.model.Herato1108.602-E4;Parent=evm.model.Herato1108.602								
+407	Herato0101	4005338	4006197	+	0	NA	Intergenic	Intergenic	9817	ID=evm.model.Herato0101.119-E1;Parent=evm.model.Herato0101.119								
+273	Herato1301	15089261	15089871	+	0	NA	Intergenic	Intergenic	-25695	ID=evm.model.Herato1301.558-E1;Parent=evm.model.Herato1301.558								
+145	Herato1003	5176264	5176518	+	0	NA	promoter-TSS (ID=evm.model.Herato1003.170-E2;Parent=evm.model.Herato1003.170)	-promoter-TSS (ID=evm.model.Herato1003.170-E2;Parent=evm.model.Herato1003.170)	-927	ID=evm.model.Herato1003.170-E2;Parent=evm.model.Herato1003.170								
+460	Herato0503	756529	756908	+	0	NA	Intergenic	Intergenic	16707	ID=evm.model.Herato0503.23-E2;Parent=evm.model.Herato0503.23								
+384	Herato0501	510667	512471	+	0	NA	Intergenic	Intergenic	8263	ID=evm.model.Herato0501.17-E10;Parent=evm.model.Herato0501.17								
+216	Herato2001	2231602	2231803	+	0	NA	promoter-TSS (ID=evm.model.Herato2001.59-E2;Parent=evm.model.Herato2001.59)	-promoter-TSS (ID=evm.model.Herato2001.59-E2;Parent=evm.model.Herato2001.59)	-261	ID=evm.model.Herato2001.59-E2;Parent=evm.model.Herato2001.59								
+643	Herato1801	3934365	3934598	+	0	NA	Intergenic	Intergenic	14657	ID=evm.model.Herato1801.134.1-E3;Parent=evm.model.Herato1801.134.1								
+537	Herato1003	2402859	2403106	+	0	NA	Intergenic	Intergenic	3260	ID=evm.model.Herato1003.74-E1;Parent=evm.model.Herato1003.74								
+527	Herato0901	11147947	11148286	+	0	NA	Intergenic	Intergenic	-3004	ID=evm.model.Herato0901.332-E1;Parent=evm.model.Herato0901.332								
+411	Herato0101	6494335	6494759	+	0	NA	Intergenic	Intergenic	-35661	ID=evm.model.Herato0101.198-E2;Parent=evm.model.Herato0101.198								
+565	Herato1202	12441212	12441487	+	0	NA	Intergenic	Intergenic	-4343	ID=evm.model.Herato1202.472-E25;Parent=evm.model.Herato1202.472								
+150	Herato1805	5763608	5763859	+	0	NA	Intergenic	Intergenic	46339	ID=evm.model.Herato1805.157-E2;Parent=evm.model.Herato1805.157								
+285	Herato1805	5638520	5639818	+	0	NA	Intergenic	Intergenic	4555	ID=evm.model.Herato1805.156-E3;Parent=evm.model.Herato1805.156								
+603	Herato1301	22174810	22175465	+	0	NA	promoter-TSS (ID=evm.model.Herato1301.752-E6;Parent=evm.model.Herato1301.752)	-promoter-TSS (ID=evm.model.Herato1301.752-E6;Parent=evm.model.Herato1301.752)	-203	ID=evm.model.Herato1301.752-E6;Parent=evm.model.Herato1301.752								
+265	Herato1301	14225199	14225858	+	0	NA	Intergenic	Intergenic	-55527	ID=evm.model.Herato1301.536-E1;Parent=evm.model.Herato1301.536								
+585	Herato1301	13939204	13939610	+	0	NA	Intergenic	Intergenic	74416	ID=evm.model.Herato1301.535-E11;Parent=evm.model.Herato1301.535								
+194	Herato0101	18871316	18872877	+	0	NA	Intergenic	Intergenic	-11093	ID=evm.model.Herato0101.747-E1;Parent=evm.model.Herato0101.747								
+516	Herato0821	856711	857249	+	0	NA	Intergenic	Intergenic	-3348	ID=evm.model.Herato0821.45.1-E3;Parent=evm.model.Herato0821.45.1								
+113	Herato0901	9090767	9091065	+	0	NA	Intergenic	Intergenic	23202	ID=evm.model.Herato0901.297-E1;Parent=evm.model.Herato0901.297								
+364	Herato1904	2704413	2704645	+	0	NA	Intergenic	Intergenic	-16850	ID=evm.model.Herato1904.88-E1;Parent=evm.model.Herato1904.88								
+237	Herato0310	3730743	3730911	+	0	NA	TTS (ID=evm.model.Herato0310.90-E1;Parent=evm.model.Herato0310.90)	-TTS (ID=evm.model.Herato0310.90-E1;Parent=evm.model.Herato0310.90)	1135	ID=evm.model.Herato0310.90-E1;Parent=evm.model.Herato0310.90								
+227	Herato1202	15041755	15042250	+	0	NA	Intergenic	Intergenic	-6510	ID=evm.model.Herato1202.577-E2;Parent=evm.model.Herato1202.577								
+367	Herato1701	2073739	2073969	+	0	NA	Intergenic	Intergenic	-51162	ID=evm.model.Herato1701.57.1-E1;Parent=evm.model.Herato1701.57.1								
+234	Herato1701	6258040	6258320	+	0	NA	Intergenic	Intergenic	-29161	ID=evm.model.Herato1701.175-E1;Parent=evm.model.Herato1701.175								
+224	Herato1202	14224095	14224412	+	0	NA	Intergenic	Intergenic	1216	ID=evm.model.Herato1202.541.1-E9;Parent=evm.model.Herato1202.541.1								
+258	Herato1801	1405734	1406269	+	0	NA	Intergenic	Intergenic	-21433	ID=evm.model.Herato1801.65.1-E1;Parent=evm.model.Herato1801.65.1								
+642	Herato1801	2957081	2957534	+	0	NA	Intergenic	Intergenic	2639	ID=evm.model.Herato1801.108-E1;Parent=evm.model.Herato1801.108								
+16	Herato1003	6261414	6262146	+	0	NA	Intergenic	Intergenic	-12939	ID=evm.model.Herato1003.206-E1;Parent=evm.model.Herato1003.206								
+679	Herato2001	2361545	2361725	+	0	NA	Intergenic	Intergenic	3440	ID=evm.model.Herato2001.61-E16;Parent=evm.model.Herato2001.61								
+300	Herato0209	650482	650699	+	0	NA	TTS (ID=evm.model.Herato0209.45-E2;Parent=evm.model.Herato0209.45)	-TTS (ID=evm.model.Herato0209.45-E2;Parent=evm.model.Herato0209.45)	101	ID=evm.model.Herato0209.45-E2;Parent=evm.model.Herato0209.45								
+429	Herato0101	18740729	18741196	+	0	NA	Intergenic	Intergenic	-2430	ID=evm.model.Herato0101.743-E11;Parent=evm.model.Herato0101.743								
+189	Herato1507	3888147	3888733	+	0	NA	Intergenic	Intergenic	-12411	ID=evm.model.Herato1507.141-E1;Parent=evm.model.Herato1507.141								
+439	Herato0301	4646202	4646353	+	0	NA	Intergenic	Intergenic	9644	ID=evm.model.Herato0301.114-E3;Parent=evm.model.Herato0301.114								
+72	Herato1202	2276610	2277007	+	0	NA	Intergenic	Intergenic	5607	ID=evm.model.Herato1202.78-E2;Parent=evm.model.Herato1202.78								
+197	Herato0101	18916203	18916560	+	0	NA	Intergenic	Intergenic	11044	ID=evm.model.Herato0101.746-E5;Parent=evm.model.Herato0101.746								
+73	Herato0701	18555755	18556006	+	0	NA	Intergenic	Intergenic	-22537	ID=evm.model.Herato0701.760-E1;Parent=evm.model.Herato0701.760								
+408	Herato0101	4655342	4655796	+	0	NA	Intergenic	Intergenic	40889	ID=evm.model.Herato0101.137-E23;Parent=evm.model.Herato0101.137								
+1	Herato0508	806676	807205	+	0	NA	Intergenic	Intergenic	31919	ID=evm.model.Herato0508.43-E2;Parent=evm.model.Herato0508.43								
+39	Herato0701	3215528	3215761	+	0	NA	Intergenic	Intergenic	-1972	ID=evm.model.Herato0701.167-E3;Parent=evm.model.Herato0701.167								
+325	Herato1904	4956446	4956882	+	0	NA	Intergenic	Intergenic	-9179	ID=evm.model.Herato1904.170-E7;Parent=evm.model.Herato1904.170								
+335	Herato0101	4766405	4766734	+	0	NA	Intergenic	Intergenic	-53629	ID=evm.model.Herato0101.138-E1;Parent=evm.model.Herato0101.138								
+602	Herato1301	21379061	21379324	+	0	NA	promoter-TSS (ID=evm.model.Herato1301.727-E3;Parent=evm.model.Herato1301.727)	-promoter-TSS (ID=evm.model.Herato1301.727-E3;Parent=evm.model.Herato1301.727)	-806	ID=evm.model.Herato1301.727-E3;Parent=evm.model.Herato1301.727								
+340	Herato0310	10068750	10069081	+	0	NA	Intergenic	Intergenic	-25507	ID=evm.model.Herato0310.307-E3;Parent=evm.model.Herato0310.307								
+169	Herato1411	549321	549508	+	0	NA	TTS (ID=evm.model.Herato1411.10-E4;Parent=evm.model.Herato1411.10)	-TTS (ID=evm.model.Herato1411.10-E4;Parent=evm.model.Herato1411.10)	111	ID=evm.model.Herato1411.10-E5;Parent=evm.model.Herato1411.10								
+67	Herato0101	18852399	18852669	+	0	NA	Intergenic	Intergenic	23921	ID=evm.model.Herato0101.746-E1;Parent=evm.model.Herato0101.746								
+534	Herato1001	3615844	3616348	+	0	NA	Intergenic	Intergenic	-22856	ID=evm.model.Herato1001.118-E2;Parent=evm.model.Herato1001.118								
+524	Herato0901	2115669	2116589	+	0	NA	Intergenic	Intergenic	-60951	ID=evm.model.Herato0901.75-E1;Parent=evm.model.Herato0901.75								
+495	Herato0701	14434573	14435224	+	0	NA	Intergenic	Intergenic	6730	ID=evm.model.Herato0701.662.2-E2;Parent=evm.model.Herato0701.662.2								
+42	Herato0701	6002303	6002642	+	0	NA	Intergenic	Intergenic	-3392	ID=evm.model.Herato0701.275-E6;Parent=evm.model.Herato0701.275								
+18	Herato0606	3070895	3071301	+	0	NA	Intergenic	Intergenic	2126	ID=evm.model.Herato0606.98-E2;Parent=evm.model.Herato0606.98								
+43	Herato1108	4064814	4065203	+	0	NA	Intergenic	Intergenic	6454	ID=evm.model.Herato1108.155-E3;Parent=evm.model.Herato1108.155								
+112	Herato0901	7944106	7944314	+	0	NA	Intergenic	Intergenic	-48977	ID=evm.model.Herato0901.260-E1;Parent=evm.model.Herato0901.260								
+387	Herato2101	6656425	6657967	+	0	NA	Intergenic	Intergenic	-19412	ID=evm.model.Herato2101.231-E2;Parent=evm.model.Herato2101.231								
+558	Herato1108	9581991	9582593	+	0	NA	Intergenic	Intergenic	7540	ID=evm.model.Herato1108.423-E12;Parent=evm.model.Herato1108.423								
+399	Herato0411	3612396	3612787	+	0	NA	TTS (ID=evm.model.Herato0411.76-E2;Parent=evm.model.Herato0411.76)	-TTS (ID=evm.model.Herato0411.76-E2;Parent=evm.model.Herato0411.76)	723	ID=evm.model.Herato0411.76-E2;Parent=evm.model.Herato0411.76								
+448	Herato0310	5479519	5479747	+	0	NA	Intergenic	Intergenic	-4047	ID=evm.model.Herato0310.128-E3;Parent=evm.model.Herato0310.128								
+549	Herato1007	3902589	3902980	+	0	NA	Intergenic	Intergenic	-31600	ID=evm.model.Herato1007.145-E1;Parent=evm.model.Herato1007.145								
+459	Herato0419	1990696	1990948	+	0	NA	Intergenic	Intergenic	154807	ID=evm.model.Herato0419.68-E3;Parent=evm.model.Herato0419.68								
+572	Herato1202	17332920	17333437	+	0	NA	Intergenic	Intergenic	2338	ID=evm.model.Herato1202.710-E6;Parent=evm.model.Herato1202.710								
+75	Herato1601	4829942	4830195	+	0	NA	Intergenic	Intergenic	18083	ID=evm.model.Herato1601.100.1-E1;Parent=evm.model.Herato1601.100.1								
+404	Herato1908	217330	217808	+	0	NA	Intergenic	Intergenic	-1822	ID=evm.model.Herato1908.10.3-E1;Parent=evm.model.Herato1908.10.3								
+50	Herato1108	6367069	6367608	+	0	NA	Intergenic	Intergenic	11835	ID=evm.model.Herato1108.266-E8;Parent=evm.model.Herato1108.266								
+88	Herato0101	19990342	19990988	+	0	NA	Intergenic	Intergenic	10083	ID=evm.model.Herato0101.768-E13;Parent=evm.model.Herato0101.768								
+371	Herato0310	1067146	1067693	+	0	NA	TTS (ID=evm.model.Herato0310.22-E3;Parent=evm.model.Herato0310.22)	-TTS (ID=evm.model.Herato0310.22-E3;Parent=evm.model.Herato0310.22)	683	ID=evm.model.Herato0310.22-E3;Parent=evm.model.Herato0310.22								
+355	Herato0411	1485968	1486421	+	0	NA	Intergenic	Intergenic	65416	ID=evm.model.Herato0411.29-E9;Parent=evm.model.Herato0411.29								
+24	Herato0701	14674100	14674278	+	0	NA	Intergenic	Intergenic	-56751	ID=evm.model.Herato0701.665-E1;Parent=evm.model.Herato0701.665								
+254	Herato1301	4204647	4204963	+	0	NA	Intergenic	Intergenic	3496	ID=evm.model.Herato1301.116-E2;Parent=evm.model.Herato1301.116								
+238	Herato1202	18940773	18940969	+	0	NA	Intergenic	Intergenic	-1980	ID=evm.model.Herato1202.764.3-E1;Parent=evm.model.Herato1202.764.3								
+590	Herato1301	14346318	14347896	+	0	NA	Intergenic	Intergenic	-29311	ID=evm.model.Herato1301.537-E1;Parent=evm.model.Herato1301.537								
+228	Herato1202	15148541	15148970	+	0	NA	Intergenic	Intergenic	-90510	ID=evm.model.Herato1202.578-E1;Parent=evm.model.Herato1202.578								
+209	Herato1603	3738798	3739368	+	0	NA	Intergenic	Intergenic	-1294	ID=evm.model.Herato1603.112-E1;Parent=evm.model.Herato1603.112								
+554	Herato1108	5823340	5823873	+	0	NA	Intergenic	Intergenic	-7828	ID=evm.model.Herato1108.245-E1;Parent=evm.model.Herato1108.245								
+8	Herato0601	1045893	1046582	+	0	NA	Intergenic	Intergenic	-72854	ID=evm.model.Herato0601.11-E1;Parent=evm.model.Herato0601.11								
+444	Herato0310	5364180	5364498	+	0	NA	Intergenic	Intergenic	-79573	ID=evm.model.Herato0310.128-E1;Parent=evm.model.Herato0310.128								
+54	Herato0101	11144256	11144915	+	0	NA	Intergenic	Intergenic	19617	ID=evm.model.Herato0101.318-E19;Parent=evm.model.Herato0101.318								
+45	Herato0701	8413819	8414149	+	0	NA	Intergenic	Intergenic	-18735	ID=evm.model.Herato0701.370-E1;Parent=evm.model.Herato0701.370								
+509	Herato0701	17653968	17654534	+	0	NA	TTS (ID=evm.model.Herato0701.739-E3;Parent=evm.model.Herato0701.739)	-TTS (ID=evm.model.Herato0701.739-E3;Parent=evm.model.Herato0701.739)	362	ID=evm.model.Herato0701.739.1-E4;Parent=evm.model.Herato0701.739.1								
+290	Herato0310	5341533	5341844	+	0	NA	Intergenic	Intergenic	-102224	ID=evm.model.Herato0310.128-E1;Parent=evm.model.Herato0310.128								
+538	Herato1003	4361791	4362490	+	0	NA	promoter-TSS (ID=evm.model.Herato1003.134-E4;Parent=evm.model.Herato1003.134)	-promoter-TSS (ID=evm.model.Herato1003.134-E4;Parent=evm.model.Herato1003.134)	-867	ID=evm.model.Herato1003.134.2-E3;Parent=evm.model.Herato1003.134.2								
+528	Herato0901	11235853	11236300	+	0	NA	Intergenic	Intergenic	5425	ID=evm.model.Herato0901.333-E6;Parent=evm.model.Herato0901.333								
+249	Herato1301	1688866	1689971	+	0	NA	Intergenic	Intergenic	-6694	ID=evm.model.Herato1301.39-E1;Parent=evm.model.Herato1301.39								
+86	Herato0101	12801550	12801960	+	0	NA	Intergenic	Intergenic	-8259	ID=evm.model.Herato0101.433-E5;Parent=evm.model.Herato0101.433								
+272	Herato1301	14690346	14690868	+	0	NA	Intergenic	Intergenic	-1310	ID=evm.model.Herato1301.554-E2;Parent=evm.model.Herato1301.554								
+20	Herato0606	3945626	3946156	+	0	NA	Intergenic	Intergenic	-6716	ID=evm.model.Herato0606.122-E1;Parent=evm.model.Herato0606.122								
+691	Herato2101	11099897	11100336	+	0	NA	Intergenic	Intergenic	1803	ID=evm.model.Herato2101.383-E4;Parent=evm.model.Herato2101.383								
+297	Herato0209	415330	415691	+	0	NA	Intergenic	Intergenic	2476	ID=evm.model.Herato0209.22-E6;Parent=evm.model.Herato0209.22								
+289	Herato0101	4664283	4665361	+	0	NA	Intergenic	Intergenic	50142	ID=evm.model.Herato0101.137-E23;Parent=evm.model.Herato0101.137								
+569	Herato1202	15104414	15104741	+	0	NA	Intergenic	Intergenic	-50825	ID=evm.model.Herato1202.577-E1;Parent=evm.model.Herato1202.577								
+2	Herato1001	4655421	4655800	+	0	NA	Intergenic	Intergenic	-38840	ID=evm.model.Herato1001.160-E1;Parent=evm.model.Herato1001.160								
+124	Herato1001	2102165	2102589	+	0	NA	promoter-TSS (ID=evm.model.Herato1001.75-E5;Parent=evm.model.Herato1001.75)	-promoter-TSS (ID=evm.model.Herato1001.75-E5;Parent=evm.model.Herato1001.75)	158	ID=evm.model.Herato1001.75-E4;Parent=evm.model.Herato1001.75								
+484	Herato0701	3850797	3851414	+	0	NA	Intergenic	Intergenic	4265	ID=evm.model.Herato0701.183.2-E3;Parent=evm.model.Herato0701.183.2								
+134	Herato1301	13883568	13883878	+	0	NA	Intergenic	Intergenic	18732	ID=evm.model.Herato1301.535-E11;Parent=evm.model.Herato1301.535								
+512	Herato0801	906287	906740	+	0	NA	Intergenic	Intergenic	61106	ID=evm.model.Herato0801.18-E17;Parent=evm.model.Herato0801.18								
+58	Herato0701	12242424	12244559	+	0	NA	promoter-TSS (ID=evm.model.Herato0701.560-E2;Parent=evm.model.Herato0701.560)	-promoter-TSS (ID=evm.model.Herato0701.560-E2;Parent=evm.model.Herato0701.560)	-319	ID=evm.model.Herato0701.560-E2;Parent=evm.model.Herato0701.560								
+80	Herato0801	4130913	4131269	+	0	NA	Intergenic	Intergenic	-21169	ID=evm.model.Herato0801.87-E3;Parent=evm.model.Herato0801.87								
+311	Herato1605	652417	652640	+	0	NA	Intergenic	Intergenic	10341	ID=evm.model.Herato1605.30-E5;Parent=evm.model.Herato1605.30								
+26	Herato0606	6187034	6187376	+	0	NA	Intergenic	Intergenic	-8029	ID=evm.model.Herato0606.214-E1;Parent=evm.model.Herato0606.214								
+158	Herato1301	23663038	23663357	+	0	NA	Intergenic	Intergenic	3902	ID=evm.model.Herato1301.796-E2;Parent=evm.model.Herato1301.796								
+212	Herato1605	85650	86514	+	0	NA	Intergenic	Intergenic	7133	ID=evm.model.Herato1605.5-E3;Parent=evm.model.Herato1605.5								
+28	Herato0606	8148648	8149055	+	0	NA	promoter-TSS (ID=evm.model.Herato0606.264-E4;Parent=evm.model.Herato0606.264)	-promoter-TSS (ID=evm.model.Herato0606.264-E4;Parent=evm.model.Herato0606.264)	-679	ID=evm.model.Herato0606.264-E4;Parent=evm.model.Herato0606.264								
+464	Herato0601	857939	858139	+	0	NA	Intergenic	Intergenic	47448	ID=evm.model.Herato0601.10-E2;Parent=evm.model.Herato0601.10								
+56	Herato1108	9421056	9421546	+	0	NA	Intergenic	Intergenic	11458	ID=evm.model.Herato1108.405-E4;Parent=evm.model.Herato1108.405								
+589	Herato1301	14339614	14341248	+	0	NA	Intergenic	Intergenic	-22635	ID=evm.model.Herato1301.537-E1;Parent=evm.model.Herato1301.537								
+597	Herato1301	20602702	20603294	+	0	NA	Intergenic	Intergenic	5125	ID=evm.model.Herato1301.701-E3;Parent=evm.model.Herato1301.701								
+5	Herato0601	940404	941017	+	0	NA	Intergenic	Intergenic	-34789	ID=evm.model.Herato0601.10-E1;Parent=evm.model.Herato0601.10								
+84	Herato0801	5657982	5658391	+	0	NA	TTS (ID=evm.model.Herato0801.143-E6;Parent=evm.model.Herato0801.143)	-TTS (ID=evm.model.Herato0801.143-E6;Parent=evm.model.Herato0801.143)	670	ID=evm.model.Herato0801.143.2-E5;Parent=evm.model.Herato0801.143.2								
+269	Herato1301	14386887	14387349	+	0	NA	Intergenic	Intergenic	-10324	ID=evm.model.Herato1301.538-E1;Parent=evm.model.Herato1301.538								
+154	Herato1005	1471035	1471335	+	0	NA	Intergenic	Intergenic	28372	ID=evm.model.Herato1005.80.1-E25;Parent=evm.model.Herato1005.80.1								
+662	Herato1807	1939536	1939781	+	0	NA	Intergenic	Intergenic	30047	ID=evm.model.Herato1807.39-E3;Parent=evm.model.Herato1807.39								
+14	Herato0606	1866281	1866559	+	0	NA	Intergenic	Intergenic	7453	ID=novel_model_64-E1;Parent=novel_model_64								
+347	Herato1801	4018934	4019642	+	0	NA	TTS (ID=evm.model.Herato1801.138-E4;Parent=evm.model.Herato1801.138)	-TTS (ID=evm.model.Herato1801.138-E4;Parent=evm.model.Herato1801.138)	407	ID=evm.model.Herato1801.138-E4;Parent=evm.model.Herato1801.138								
+109	Herato1202	18847127	18847724	+	0	NA	Intergenic	Intergenic	-5142	ID=evm.model.Herato1202.761-E5;Parent=evm.model.Herato1202.761								
+488	Herato0701	8841747	8842332	+	0	NA	Intergenic	Intergenic	-89736	ID=evm.model.Herato0701.374-E1;Parent=evm.model.Herato0701.374								
+128	Herato1801	1787248	1787496	+	0	NA	Intergenic	Intergenic	-35852	ID=evm.model.Herato1801.79-E1;Parent=evm.model.Herato1801.79								
+138	Herato1301	13931071	13931536	+	0	NA	Intergenic	Intergenic	66312	ID=evm.model.Herato1301.535-E11;Parent=evm.model.Herato1301.535								
+380	Herato1801	2967171	2967496	+	0	NA	Intergenic	Intergenic	-4117	ID=evm.model.Herato1801.108.1-E2;Parent=evm.model.Herato1801.108.1								
+619	Herato1603	3363561	3363788	+	0	NA	promoter-TSS (ID=evm.model.Herato1603.89-E7;Parent=evm.model.Herato1603.89)	-promoter-TSS (ID=evm.model.Herato1603.89-E7;Parent=evm.model.Herato1603.89)	-955	ID=evm.model.Herato1603.89.1-E6;Parent=evm.model.Herato1603.89.1								
+172	Herato1411	2416523	2416825	+	0	NA	TTS (ID=evm.model.Herato1411.81-E4;Parent=evm.model.Herato1411.81)	-TTS (ID=evm.model.Herato1411.81-E4;Parent=evm.model.Herato1411.81)	969	ID=evm.model.Herato1411.81-E4;Parent=evm.model.Herato1411.81								
+307	Herato0403	245177	245703	+	0	NA	Intergenic	Intergenic	-56778	ID=evm.model.Herato0403.6-E1;Parent=evm.model.Herato0403.6								
+149	Herato1301	20601494	20601704	+	0	NA	Intergenic	Intergenic	3726	ID=evm.model.Herato1301.701-E3;Parent=evm.model.Herato1301.701								
+360	Herato0401	1089671	1090728	+	0	NA	Intergenic	Intergenic	-33814	ID=evm.model.Herato0401.20-E1;Parent=evm.model.Herato0401.20								
+10	Herato1301	13895959	13896306	+	0	NA	Intergenic	Intergenic	31141	ID=evm.model.Herato1301.535-E11;Parent=evm.model.Herato1301.535								
+468	Herato0601	1066138	1066677	+	0	NA	Intergenic	Intergenic	-52684	ID=evm.model.Herato0601.11-E1;Parent=evm.model.Herato0601.11								
+190	Herato1507	6499354	6500036	+	0	NA	Intergenic	Intergenic	4848	ID=evm.model.Herato1507.230-E3;Parent=evm.model.Herato1507.230								
+61	Herato0701	13775319	13775809	+	0	NA	Intergenic	Intergenic	-38147	ID=evm.model.Herato0701.628-E1;Parent=evm.model.Herato0701.628								
+682	Herato2001	11184774	11185308	+	0	NA	Intergenic	Intergenic	13595	ID=evm.model.Herato2001.429-E3;Parent=evm.model.Herato2001.429								
+631	Herato1701	5032164	5032853	+	0	NA	Intergenic	Intergenic	-15732	ID=evm.model.Herato1701.114-E1;Parent=evm.model.Herato1701.114								
+663	Herato1807	1974903	1975391	+	0	NA	Intergenic	Intergenic	-56762	ID=evm.model.Herato1807.40-E1;Parent=evm.model.Herato1807.40								
+205	Herato1202	3671837	3672241	+	0	NA	Intergenic	Intergenic	-7769	ID=evm.model.Herato1202.124-E1;Parent=evm.model.Herato1202.124								
+621	Herato1605	133971	134550	+	0	NA	Intergenic	Intergenic	-2501	ID=evm.model.Herato1605.8-E1;Parent=evm.model.Herato1605.8								
+220	Herato1202	11605167	11606175	+	0	NA	Intergenic	Intergenic	-11156	ID=evm.model.Herato1202.454-E1;Parent=evm.model.Herato1202.454								
+276	Herato1505	2114660	2115105	+	0	NA	Intergenic	Intergenic	-27041	ID=evm.model.Herato1505.85-E1;Parent=evm.model.Herato1505.85								
+359	Herato0401	413526	414301	+	0	NA	Intergenic	Intergenic	-82442	ID=evm.model.Herato0401.7-E1;Parent=evm.model.Herato0401.7								
+230	Herato1904	4882911	4883868	+	0	NA	Intergenic	Intergenic	-8049	ID=evm.model.Herato1904.167-E2;Parent=evm.model.Herato1904.167								
+598	Herato1301	21066998	21067487	+	0	NA	Intergenic	Intergenic	-2151	ID=evm.model.Herato1301.721-E1;Parent=evm.model.Herato1301.721								
+304	Herato1910	2310669	2311177	+	0	NA	Intergenic	Intergenic	-3238	ID=evm.model.Herato1910.133.3-E4;Parent=evm.model.Herato1910.133.3								
+455	Herato0411	4019516	4019816	+	0	NA	Intergenic	Intergenic	-50209	ID=evm.model.Herato0411.91-E1;Parent=evm.model.Herato0411.91								
+471	Herato0601	1166788	1167024	+	0	NA	Intergenic	Intergenic	39594	ID=evm.model.Herato0601.12-E4;Parent=evm.model.Herato0601.12								
+545	Herato1005	2594162	2594552	+	0	NA	Intergenic	Intergenic	-1402	ID=evm.model.Herato1005.129-E7;Parent=evm.model.Herato1005.129								
+576	Herato1301	4090110	4090724	+	0	NA	Intergenic	Intergenic	10418	ID=evm.model.Herato1301.112-E34;Parent=evm.model.Herato1301.112								
+173	Herato0101	17274391	17274603	+	0	NA	Intergenic	Intergenic	-24979	ID=evm.model.Herato0101.670-E1;Parent=evm.model.Herato0101.670								
+520	Herato0821	2162431	2164087	+	0	NA	TTS (ID=evm.model.Herato0821.84-E3;Parent=evm.model.Herato0821.84)	-TTS (ID=evm.model.Herato0821.84-E3;Parent=evm.model.Herato0821.84)	324	ID=evm.model.Herato0821.84.1-E3;Parent=evm.model.Herato0821.84.1								
+298	Herato1805	10107530	10108283	+	0	NA	Intergenic	Intergenic	-57430	ID=evm.model.Herato1805.292-E1;Parent=evm.model.Herato1805.292								
+530	Herato1001	1634003	1634328	+	0	NA	promoter-TSS (ID=evm.model.Herato1001.63-E2;Parent=evm.model.Herato1001.63)	-promoter-TSS (ID=evm.model.Herato1001.63-E2;Parent=evm.model.Herato1001.63)	-482	ID=evm.model.Herato1001.63-E2;Parent=evm.model.Herato1001.63								
+245	Herato0101	21387502	21388415	+	0	NA	promoter-TSS (ID=evm.model.Herato0101.829-E3;Parent=evm.model.Herato0101.829)	-promoter-TSS (ID=evm.model.Herato0101.829-E3;Parent=evm.model.Herato0101.829)	-305	ID=evm.model.Herato0101.829-E3;Parent=evm.model.Herato0101.829								
+344	Herato0503	8865516	8866072	+	0	NA	Intergenic	Intergenic	-3183	ID=evm.model.Herato0503.337.1-E2;Parent=evm.model.Herato0503.337.1								
+35	Herato1007	2762382	2762569	+	0	NA	Intergenic	Intergenic	3414	ID=evm.model.Herato1007.98-E6;Parent=evm.model.Herato1007.98								
+505	Herato0701	14621413	14621867	+	0	NA	Intergenic	Intergenic	-4202	ID=evm.model.Herato0701.665-E1;Parent=evm.model.Herato0701.665								
+157	Herato1005	2759685	2760230	+	0	NA	promoter-TSS (ID=evm.model.Herato1005.140-E4;Parent=evm.model.Herato1005.140)	-promoter-TSS (ID=evm.model.Herato1005.140-E4;Parent=evm.model.Herato1005.140)	668	ID=evm.model.Herato1005.140-E3;Parent=evm.model.Herato1005.140								
+683	Herato2001	12436813	12437239	+	0	NA	Intergenic	Intergenic	-39033	ID=evm.model.Herato2001.468-E1;Parent=evm.model.Herato2001.468								
+339	Herato0209	654578	654769	+	0	NA	Intergenic	Intergenic	1928	ID=evm.model.Herato0209.45-E4;Parent=evm.model.Herato0209.45								
+606	Herato1411	799379	799860	+	0	NA	Intergenic	Intergenic	-3525	ID=evm.model.Herato1411.21-E1;Parent=evm.model.Herato1411.21								
+250	Herato1301	2095927	2096338	+	0	NA	Intergenic	Intergenic	-23426	ID=evm.model.Herato1301.54-E1;Parent=evm.model.Herato1301.54								
+329	Herato1805	4819040	4819580	+	0	NA	Intergenic	Intergenic	14370	ID=evm.model.Herato1805.127-E7;Parent=evm.model.Herato1805.127								
+308	Herato1411	1260286	1261213	+	0	NA	Intergenic	Intergenic	-3559	ID=evm.model.Herato1411.36-E2;Parent=evm.model.Herato1411.36								
+49	Herato0701	8781659	8782330	+	0	NA	Intergenic	Intergenic	-29691	ID=evm.model.Herato0701.374-E1;Parent=evm.model.Herato0701.374								
+435	Herato0204	783417	784301	+	0	NA	Intergenic	Intergenic	-121313	ID=evm.model.Herato0204.28-E1;Parent=evm.model.Herato0204.28								
+425	Herato0101	14797984	14798382	+	0	NA	Intergenic	Intergenic	-1715	ID=evm.model.Herato0101.530-E2;Parent=evm.model.Herato0101.530								
+594	Herato1301	14640347	14641088	+	0	NA	Intergenic	Intergenic	-34072	ID=evm.model.Herato1301.554-E1;Parent=evm.model.Herato1301.554								
+185	Herato1108	7107003	7107278	+	0	NA	promoter-TSS (ID=evm.model.Herato1108.316-E6;Parent=evm.model.Herato1108.316)	-promoter-TSS (ID=evm.model.Herato1108.316-E6;Parent=evm.model.Herato1108.316)	606	ID=evm.model.Herato1108.316.6-E5;Parent=evm.model.Herato1108.316.6								
+467	Herato0601	1060357	1060851	+	0	NA	Intergenic	Intergenic	-58487	ID=evm.model.Herato0601.11-E1;Parent=evm.model.Herato0601.11								
+675	Herato1908	1760296	1760747	+	0	NA	Intergenic	Intergenic	-1067	ID=evm.model.Herato1908.60-E2;Parent=evm.model.Herato1908.60								
+651	Herato1805	3117663	3118008	+	0	NA	Intergenic	Intergenic	70130	ID=evm.model.Herato1805.89-E1;Parent=evm.model.Herato1805.89								
+116	Herato1301	2076446	2076757	+	0	NA	Intergenic	Intergenic	11226	ID=evm.model.Herato1301.53-E1;Parent=evm.model.Herato1301.53								
+513	Herato0801	4169754	4170109	+	0	NA	Intergenic	Intergenic	-2180	ID=evm.model.Herato0801.87-E2;Parent=evm.model.Herato0801.87								
+400	Herato0405	834846	835263	+	0	NA	Intergenic	Intergenic	-5091	ID=evm.model.Herato0405.31-E1;Parent=evm.model.Herato0405.31								
+395	Herato0403	480531	481250	+	0	NA	Intergenic	Intergenic	5310	ID=evm.model.Herato0403.39-E2;Parent=evm.model.Herato0403.39								
+213	Herato1605	139193	139813	+	0	NA	Intergenic	Intergenic	-1101	ID=evm.model.Herato1605.9-E4;Parent=evm.model.Herato1605.9								
+33	Herato1408	2723802	2724541	+	0	NA	Intergenic	Intergenic	16026	ID=evm.model.Herato1408.74-E4;Parent=evm.model.Herato1408.74								
+32	Herato0606	9250071	9250423	+	0	NA	Intergenic	Intergenic	13430	ID=evm.model.Herato0606.302.2-E22;Parent=evm.model.Herato0606.302.2								
+127	Herato1001	3193438	3193742	+	0	NA	Intergenic	Intergenic	32062	ID=evm.model.Herato1001.114-E3;Parent=evm.model.Herato1001.114								
+487	Herato0701	8252009	8252387	+	0	NA	Intergenic	Intergenic	11592	ID=evm.model.Herato0701.366.1-E4;Parent=evm.model.Herato0701.366.1								
+79	Herato0801	3359187	3359496	+	0	NA	Intergenic	Intergenic	1342	ID=evm.model.Herato0801.66-E2;Parent=evm.model.Herato0801.66								
+137	Herato1301	13929825	13930135	+	0	NA	Intergenic	Intergenic	64989	ID=evm.model.Herato1301.535-E11;Parent=evm.model.Herato1301.535								
+646	Herato1805	445489	445883	+	0	NA	promoter-TSS (ID=evm.model.Herato1805.24-E6;Parent=evm.model.Herato1805.24)	-promoter-TSS (ID=evm.model.Herato1805.24-E6;Parent=evm.model.Herato1805.24)	-47	ID=evm.model.Herato1805.24-E6;Parent=evm.model.Herato1805.24								
+499	Herato0701	14579383	14579907	+	0	NA	promoter-TSS (ID=evm.model.Herato0701.665-E3;Parent=evm.model.Herato0701.665)	-promoter-TSS (ID=evm.model.Herato0701.665-E3;Parent=evm.model.Herato0701.665)	-394	ID=evm.model.Herato0701.665-E3;Parent=evm.model.Herato0701.665								
+348	Herato1807	2040899	2041340	+	0	NA	TTS (ID=evm.model.Herato1807.40-E2;Parent=evm.model.Herato1807.40)	-TTS (ID=evm.model.Herato1807.40-E2;Parent=evm.model.Herato1807.40)	356	ID=evm.model.Herato1807.40-E2;Parent=evm.model.Herato1807.40								
+440	Herato0310	1976082	1976259	+	0	NA	Intergenic	Intergenic	-2533	ID=evm.model.Herato0310.44.1-E1;Parent=evm.model.Herato0310.44.1								
+165	Herato1807	1235483	1236033	+	0	NA	Intergenic	Intergenic	30566	ID=evm.model.Herato1807.23-E2;Parent=evm.model.Herato1807.23								
+550	Herato1108	3815821	3816007	+	0	NA	Intergenic	Intergenic	12861	ID=evm.model.Herato1108.146-E4;Parent=evm.model.Herato1108.146								
+294	Herato1408	428001	428275	+	0	NA	Intergenic	Intergenic	-36624	ID=evm.model.Herato1408.25-E1;Parent=evm.model.Herato1408.25								
+215	Herato0101	19996265	19996904	+	0	NA	Intergenic	Intergenic	16002	ID=evm.model.Herato0101.768-E13;Parent=evm.model.Herato0101.768								
+393	Herato0101	3389818	3390010	+	0	NA	Intergenic	Intergenic	-2855	ID=evm.model.Herato0101.115-E1;Parent=evm.model.Herato0101.115								
+131	Herato1001	5800784	5801038	+	0	NA	Intergenic	Intergenic	-7935	ID=evm.model.Herato1001.188-E1;Parent=evm.model.Herato1001.188								
+566	Herato1202	13181390	13181838	+	0	NA	Intergenic	Intergenic	-4180	ID=evm.model.Herato1202.496-E1;Parent=evm.model.Herato1202.496								
+163	Herato1408	2728439	2728600	+	0	NA	Intergenic	Intergenic	14395	ID=evm.model.Herato1408.75-E1;Parent=evm.model.Herato1408.75								
+481	Herato0606	7758516	7758947	+	0	NA	Intergenic	Intergenic	63146	ID=evm.model.Herato0606.261-E4;Parent=evm.model.Herato0606.261								
+121	Herato0101	15052857	15053117	+	0	NA	Intergenic	Intergenic	1685	ID=evm.model.Herato0101.540-E6;Parent=evm.model.Herato0101.540								
+314	Herato1904	5075539	5075820	+	0	NA	Intergenic	Intergenic	-6693	ID=evm.model.Herato1904.173-E1;Parent=evm.model.Herato1904.173								
+286	Herato1807	2466784	2467335	+	0	NA	Intergenic	Intergenic	-2050	ID=evm.model.Herato1807.48.1-E4;Parent=evm.model.Herato1807.48.1								
+266	Herato1301	14329154	14329776	+	0	NA	Intergenic	Intergenic	-11669	ID=evm.model.Herato1301.537-E1;Parent=evm.model.Herato1301.537								
+433	Herato0101	20483567	20483897	+	0	NA	Intergenic	Intergenic	23576	ID=evm.model.Herato0101.781-E4;Parent=evm.model.Herato0101.781								
+586	Herato1301	13939959	13940255	+	0	NA	Intergenic	Intergenic	75116	ID=evm.model.Herato1301.535-E11;Parent=evm.model.Herato1301.535								
+423	Herato0101	14436478	14436788	+	0	NA	Intergenic	Intergenic	-51737	ID=evm.model.Herato0101.514-E1;Parent=evm.model.Herato0101.514								
+657	Herato1805	5828868	5829499	+	0	NA	Intergenic	Intergenic	-63507	ID=evm.model.Herato1805.158-E1;Parent=evm.model.Herato1805.158								
+183	Herato1505	3014550	3015224	+	0	NA	Intergenic	Intergenic	-29845	ID=evm.model.Herato1505.132-E1;Parent=evm.model.Herato1505.132								
+461	Herato0503	3322016	3322288	+	0	NA	Intergenic	Intergenic	-9308	ID=evm.model.Herato0503.116-E3;Parent=evm.model.Herato0503.116								
+99	Herato0901	1695988	1696518	+	0	NA	promoter-TSS (ID=evm.model.Herato0901.62-E4;Parent=evm.model.Herato0901.62)	-promoter-TSS (ID=evm.model.Herato0901.62-E4;Parent=evm.model.Herato0901.62)	-857	ID=evm.model.Herato0901.62-E4;Parent=evm.model.Herato0901.62								
+673	Herato1908	309774	310178	+	0	NA	Intergenic	Intergenic	1073	ID=evm.model.Herato1908.15.2-E2;Parent=evm.model.Herato1908.15.2								
+515	Herato0801	4547149	4547651	+	0	NA	Intergenic	Intergenic	-13508	ID=evm.model.Herato0801.100-E1;Parent=evm.model.Herato0801.100								
+175	Herato1411	3394702	3394920	+	0	NA	Intergenic	Intergenic	7486	ID=evm.model.Herato1411.136.1-E1;Parent=evm.model.Herato1411.136.1								
+616	Herato1603	1460464	1461136	+	0	NA	Intergenic	Intergenic	1619	ID=evm.model.Herato1603.127-E2;Parent=evm.model.Herato1603.127								
+151	Herato1805	5861195	5862155	+	0	NA	Intergenic	Intergenic	-31015	ID=evm.model.Herato1805.158-E1;Parent=evm.model.Herato1805.158								
+318	Herato0411	5414998	5415239	+	0	NA	TTS (ID=evm.model.Herato0411.132-E2;Parent=evm.model.Herato0411.132)	-TTS (ID=evm.model.Herato0411.132-E2;Parent=evm.model.Herato0411.132)	1106	ID=evm.model.Herato0411.132-E2;Parent=evm.model.Herato0411.132								
+243	Herato1301	654667	655082	+	0	NA	Intergenic	Intergenic	-38865	ID=evm.model.Herato1301.20-E1;Parent=evm.model.Herato1301.20								
+503	Herato0701	14610984	14611405	+	0	NA	Intergenic	Intergenic	6244	ID=evm.model.Herato0701.665-E1;Parent=evm.model.Herato0701.665								
+106	Herato0101	14102849	14103609	+	0	NA	Intergenic	Intergenic	-9238	ID=evm.model.Herato0101.507-E3;Parent=evm.model.Herato0101.507								
+410	Herato0101	6148568	6148901	+	0	NA	Intergenic	Intergenic	4141	ID=evm.model.Herato0101.179.1-E2;Parent=evm.model.Herato0101.179.1								
+685	Herato2001	12665636	12666239	+	0	NA	TTS (ID=evm.model.Herato2001.483-E2;Parent=evm.model.Herato2001.483)	-TTS (ID=evm.model.Herato2001.483-E2;Parent=evm.model.Herato2001.483)	234	ID=evm.model.Herato2001.483.2.3-E2;Parent=evm.model.Herato2001.483.2.3								
+477	Herato0606	2897401	2898438	+	0	NA	Intergenic	Intergenic	-1331	ID=evm.model.Herato0606.89-E4;Parent=evm.model.Herato0606.89								
+665	Herato1807	3944943	3945149	+	0	NA	promoter-TSS (ID=evm.model.Herato1807.83-E3;Parent=evm.model.Herato1807.83)	-promoter-TSS (ID=evm.model.Herato1807.83-E3;Parent=evm.model.Herato1807.83)	-967	ID=evm.model.Herato1807.83-E3;Parent=evm.model.Herato1807.83								
+203	Herato1910	2166051	2166256	+	0	NA	Intergenic	Intergenic	-43116	ID=evm.model.Herato1910.131-E1;Parent=evm.model.Herato1910.131								
+627	Herato1701	1238010	1238740	+	0	NA	Intergenic	Intergenic	-81992	ID=evm.model.Herato1701.36.1-E1;Parent=evm.model.Herato1701.36.1								
+453	Herato0401	1082743	1083389	+	0	NA	Intergenic	Intergenic	-40947	ID=evm.model.Herato0401.20-E1;Parent=evm.model.Herato0401.20								
+146	Herato1301	19197690	19198134	+	0	NA	promoter-TSS (ID=evm.model.Herato1301.669-E28;Parent=evm.model.Herato1301.669)	-promoter-TSS (ID=evm.model.Herato1301.669-E28;Parent=evm.model.Herato1301.669)	44	ID=evm.model.Herato1301.669-E28;Parent=evm.model.Herato1301.669								
+543	Herato1005	1683145	1683544	+	0	NA	Intergenic	Intergenic	4086	ID=evm.model.Herato1005.83-E2;Parent=evm.model.Herato1005.83								
+637	Herato1703	463518	463762	+	0	NA	Intergenic	Intergenic	42957	ID=evm.model.Herato1703.3-E13;Parent=evm.model.Herato1703.3								
+624	Herato1605	1574748	1575355	+	0	NA	Intergenic	Intergenic	5908	ID=evm.model.Herato1605.45.3-E1;Parent=evm.model.Herato1605.45.3								
+634	Herato1701	8710911	8711621	+	0	NA	Intergenic	Intergenic	8937	ID=evm.model.Herato1701.270-E3;Parent=evm.model.Herato1701.270								
+356	Herato2101	9137349	9138160	+	0	NA	Intergenic	Intergenic	-24591	ID=evm.model.Herato2101.310-E1;Parent=evm.model.Herato2101.310								
+279	Herato0101	6758717	6759190	+	0	NA	TTS (ID=evm.model.Herato0101.200-E3;Parent=evm.model.Herato0101.200)	-TTS (ID=evm.model.Herato0101.200-E3;Parent=evm.model.Herato0101.200)	449	ID=evm.model.Herato0101.200-E3;Parent=evm.model.Herato0101.200								
+242	Herato1202	19505220	19505710	+	0	NA	Intergenic	Intergenic	8598	ID=evm.model.Herato1202.790-E1;Parent=evm.model.Herato1202.790								
+658	Herato1807	642891	643285	+	0	NA	Intergenic	Intergenic	3694	ID=evm.model.Herato1807.12-E4;Parent=evm.model.Herato1807.12								
+81	Herato0801	4165832	4166452	+	0	NA	Intergenic	Intergenic	1609	ID=evm.model.Herato0801.87-E2;Parent=evm.model.Herato0801.87								
+502	Herato0701	14609802	14610787	+	0	NA	Intergenic	Intergenic	7144	ID=evm.model.Herato0701.665-E1;Parent=evm.model.Herato0701.665								
+57	Herato1108	9986180	9986636	+	0	NA	Intergenic	Intergenic	-1070	ID=evm.model.Herato1108.448.1-E4;Parent=evm.model.Herato1108.448.1								
+301	Herato1807	683234	684147	+	0	NA	promoter-TSS (ID=evm.model.Herato1807.12-E2;Parent=evm.model.Herato1807.12)	-promoter-TSS (ID=evm.model.Herato1807.12-E2;Parent=evm.model.Herato1807.12)	-350	ID=evm.model.Herato1807.12-E2;Parent=evm.model.Herato1807.12								
+474	Herato0601	3046166	3046545	+	0	NA	Intergenic	Intergenic	-80823	ID=evm.model.Herato0601.74-E1;Parent=evm.model.Herato0601.74								
+202	Herato1202	3302459	3302778	+	0	NA	Intergenic	Intergenic	6686	ID=evm.model.Herato1202.113-E2;Parent=evm.model.Herato1202.113								
+27	Herato0606	6264039	6264209	+	0	NA	Intergenic	Intergenic	-14402	ID=evm.model.Herato0606.215-E1;Parent=evm.model.Herato0606.215								
+341	Herato2001	2232359	2232539	+	0	NA	TTS (ID=evm.model.Herato2001.59-E1;Parent=evm.model.Herato2001.59)	-TTS (ID=evm.model.Herato2001.59-E1;Parent=evm.model.Herato2001.59)	814	ID=evm.model.Herato2001.59-E1;Parent=evm.model.Herato2001.59								
+452	Herato0310	9613229	9613689	+	0	NA	Intergenic	Intergenic	9197	ID=evm.model.Herato0310.293-E1;Parent=evm.model.Herato0310.293								
+579	Herato1301	9641950	9642399	+	0	NA	Intergenic	Intergenic	59130	ID=evm.model.Herato1301.385-E14;Parent=evm.model.Herato1301.385								
+542	Herato1005	1668284	1668681	+	0	NA	TTS (ID=evm.model.Herato1005.82-E1;Parent=evm.model.Herato1005.82)	-TTS (ID=evm.model.Herato1005.82-E1;Parent=evm.model.Herato1005.82)	1056	ID=evm.model.Herato1005.82-E1;Parent=evm.model.Herato1005.82								
+392	Herato2001	3061224	3061494	+	0	NA	TTS (ID=evm.model.Herato2001.84-E9;Parent=evm.model.Herato2001.84)	-TTS (ID=evm.model.Herato2001.84-E9;Parent=evm.model.Herato2001.84)	1057	ID=evm.model.Herato2001.84-E9;Parent=evm.model.Herato2001.84								
+478	Herato0606	3029823	3030330	+	0	NA	Intergenic	Intergenic	-1503	ID=evm.model.Herato0606.94-E4;Parent=evm.model.Herato0606.94								
+119	Herato1703	1718982	1720035	+	0	NA	Intergenic	Intergenic	-5224	ID=evm.model.Herato1703.29-E1;Parent=evm.model.Herato1703.29								
+591	Herato1301	14358129	14358548	+	0	NA	Intergenic	Intergenic	-39104	ID=evm.model.Herato1301.538-E1;Parent=evm.model.Herato1301.538								
+654	Herato1805	4851348	4851791	+	0	NA	Intergenic	Intergenic	10405	ID=evm.model.Herato1805.128-E3;Parent=evm.model.Herato1805.128								
+162	Herato1007	331030	331758	+	0	NA	Intergenic	Intergenic	-66905	ID=evm.model.Herato1007.7-E1;Parent=evm.model.Herato1007.7								
+64	Herato0701	14521500	14521762	+	0	NA	Intergenic	Intergenic	-25469	ID=evm.model.Herato0701.664-E1;Parent=evm.model.Herato0701.664								
+336	Herato1805	9859482	9860320	+	0	NA	Intergenic	Intergenic	-53182	ID=evm.model.Herato1805.291-E1;Parent=evm.model.Herato1805.291								
+370	Herato1904	5874450	5874892	+	0	NA	Intergenic	Intergenic	-10243	ID=evm.model.Herato1904.211-E1;Parent=evm.model.Herato1904.211								
+609	Herato1411	5261511	5261865	+	0	NA	Intergenic	Intergenic	-13525	ID=evm.model.Herato1411.194-E2;Parent=evm.model.Herato1411.194								
+326	Herato2001	9785655	9786314	+	0	NA	Intergenic	Intergenic	-49901	ID=evm.model.Herato2001.394-E1;Parent=evm.model.Herato2001.394								
+628	Herato1701	4426319	4426724	+	0	NA	Intergenic	Intergenic	16002	ID=evm.model.Herato1701.105-E1;Parent=evm.model.Herato1701.105								
+638	Herato1703	868511	868852	+	0	NA	TTS (ID=evm.model.Herato1703.46-E2;Parent=evm.model.Herato1703.46)	-TTS (ID=evm.model.Herato1703.46-E2;Parent=evm.model.Herato1703.46)	386	ID=evm.model.Herato1703.46-E2;Parent=evm.model.Herato1703.46								
+317	Herato1903	55031	55461	+	0	NA	Intergenic	Intergenic	-4858	ID=evm.model.Herato1903.1-E1;Parent=evm.model.Herato1903.1								
+690	Herato2101	11086177	11086667	+	0	NA	Intergenic	Intergenic	-3414	ID=evm.model.Herato2101.383-E3;Parent=evm.model.Herato2101.383								
+432	Herato0101	20362429	20362769	+	0	NA	Intergenic	Intergenic	60320	ID=evm.model.Herato0101.780-E1;Parent=evm.model.Herato0101.780								
+11	Herato1301	14331963	14332336	+	0	NA	Intergenic	Intergenic	-14353	ID=evm.model.Herato1301.537-E1;Parent=evm.model.Herato1301.537								
+182	Herato1505	2233613	2234089	+	0	NA	Intergenic	Intergenic	72508	ID=evm.model.Herato1505.86-E14;Parent=evm.model.Herato1505.86								
+422	Herato0101	12800053	12801028	+	0	NA	Intergenic	Intergenic	8433	ID=evm.model.Herato0101.433-E4;Parent=evm.model.Herato0101.433								
+672	Herato1906	869781	870097	+	0	NA	Intergenic	Intergenic	13812	ID=evm.model.Herato1906.27-E2;Parent=evm.model.Herato1906.27								
+649	Herato1805	2920739	2921576	+	0	NA	Intergenic	Intergenic	49990	ID=evm.model.Herato1805.88.1-E39;Parent=evm.model.Herato1805.88.1								
+496	Herato0701	14495897	14496882	+	0	NA	promoter-TSS (ID=evm.model.Herato0701.664-E1;Parent=evm.model.Herato0701.664)	-promoter-TSS (ID=evm.model.Herato0701.664-E1;Parent=evm.model.Herato0701.664)	-227	ID=evm.model.Herato0701.664-E1;Parent=evm.model.Herato0701.664								
+291	Herato0403	508125	508382	+	0	NA	Intergenic	Intergenic	17484	ID=evm.model.Herato0403.9-E2;Parent=evm.model.Herato0403.9								
+60	Herato1108	11510692	11511069	+	0	NA	Intergenic	Intergenic	-3394	ID=evm.model.Herato1108.494-E1;Parent=evm.model.Herato1108.494								
+689	Herato2101	11052732	11053106	+	0	NA	Intergenic	Intergenic	12119	ID=evm.model.Herato2101.383-E1;Parent=evm.model.Herato2101.383								
+6	Herato0601	972081	972495	+	0	NA	Intergenic	Intergenic	-66367	ID=evm.model.Herato0601.10-E1;Parent=evm.model.Herato0601.10								
+310	Herato1605	87040	87497	+	0	NA	Intergenic	Intergenic	5947	ID=evm.model.Herato1605.5-E3;Parent=evm.model.Herato1605.5								
+418	Herato0101	9908571	9908870	+	0	NA	Intergenic	Intergenic	4622	ID=evm.model.Herato0101.288-E1;Parent=evm.model.Herato0101.288								
+142	Herato1003	2412834	2413013	+	0	NA	Intergenic	Intergenic	-6681	ID=evm.model.Herato1003.74-E1;Parent=evm.model.Herato1003.74								
+66	Herato0701	14587641	14588077	+	0	NA	Intergenic	Intergenic	-2471	ID=evm.model.Herato0701.665-E2;Parent=evm.model.Herato0701.665								
+95	Herato0101	20424765	20425004	+	0	NA	Intergenic	Intergenic	-31861	ID=evm.model.Herato0101.781-E1;Parent=evm.model.Herato0101.781								
+179	Herato1108	3471323	3471703	+	0	NA	Intergenic	Intergenic	9622	ID=evm.model.Herato1108.116-E2;Parent=evm.model.Herato1108.116								
+68	Herato0701	16238568	16239192	+	0	NA	Intergenic	Intergenic	45991	ID=evm.model.Herato0701.699-E5;Parent=evm.model.Herato0701.699								
+612	Herato1505	2275204	2275757	+	0	NA	Intergenic	Intergenic	30879	ID=evm.model.Herato1505.86-E14;Parent=evm.model.Herato1505.86								
+353	Herato1901	293068	293510	+	0	NA	Intergenic	Intergenic	1271	ID=evm.model.Herato1901.17.3-E3;Parent=evm.model.Herato1901.17.3								
+102	Herato0901	3743188	3743841	+	0	NA	Intergenic	Intergenic	-10023	ID=evm.model.Herato0901.93-E3;Parent=evm.model.Herato0901.93								
+377	Herato1701	11263164	11264348	+	0	NA	Intergenic	Intergenic	5037	ID=evm.model.Herato1701.391-E21;Parent=evm.model.Herato1701.391								
+669	Herato1904	4647358	4647560	+	0	NA	Intergenic	Intergenic	-2743	ID=evm.model.Herato1904.155_evm.model.Herato1904.156-E1;Parent=evm.model.Herato1904.155_evm.model.Herato1904.156								
+17	Herato0606	2458556	2458725	+	0	NA	Intergenic	Intergenic	24426	ID=evm.model.Herato0606.77-E1;Parent=evm.model.Herato0606.77								
+381	Herato0101	2913817	2914742	+	0	NA	Intergenic	Intergenic	2589	ID=evm.model.Herato0101.93-E2;Parent=evm.model.Herato0101.93								
+262	Herato1411	6899370	6899803	+	0	NA	Intergenic	Intergenic	26112	ID=evm.model.Herato1411.254-E9;Parent=evm.model.Herato1411.254								
+87	Herato2001	1543363	1544003	+	0	NA	Intergenic	Intergenic	13308	ID=evm.model.Herato2001.28-E1;Parent=evm.model.Herato2001.28								
+414	Herato0101	7903077	7903433	+	0	NA	Intergenic	Intergenic	-4524	ID=evm.model.Herato0101.240-E1;Parent=evm.model.Herato0101.240								
+582	Herato1301	13891656	13892567	+	0	NA	Intergenic	Intergenic	27120	ID=evm.model.Herato1301.535-E11;Parent=evm.model.Herato1301.535								
+92	Herato0821	1060892	1061424	+	0	NA	Intergenic	Intergenic	27991	ID=evm.model.Herato0821.46-E12;Parent=evm.model.Herato0821.46								
+51	Herato0701	8817411	8817665	+	0	NA	Intergenic	Intergenic	-65235	ID=evm.model.Herato0701.374-E1;Parent=evm.model.Herato0701.374								
+93	Herato0821	1344835	1345223	+	0	NA	Intergenic	Intergenic	-43287	ID=evm.model.Herato0821.54-E1;Parent=evm.model.Herato0821.54								
+493	Herato0701	10982713	10983008	+	0	NA	Intergenic	Intergenic	-15590	ID=evm.model.Herato0701.468-E5;Parent=evm.model.Herato0701.468								
+219	Herato1202	11604470	11604746	+	0	NA	Intergenic	Intergenic	-10093	ID=evm.model.Herato1202.454-E1;Parent=evm.model.Herato1202.454								
+519	Herato0821	2140011	2141373	+	0	NA	promoter-TSS (ID=evm.model.Herato0821.84-E1;Parent=evm.model.Herato0821.84)	-promoter-TSS (ID=evm.model.Herato0821.84-E1;Parent=evm.model.Herato0821.84)	-160	ID=evm.model.Herato0821.84-E1;Parent=evm.model.Herato0821.84								
+191	Herato1202	17821176	17821520	+	0	NA	Intergenic	Intergenic	20068	ID=evm.model.Herato1202.729-E1;Parent=evm.model.Herato1202.729								
+562	Herato1202	3281695	3281967	+	0	NA	Intergenic	Intergenic	4255	ID=evm.model.Herato1202.114-E2;Parent=evm.model.Herato1202.114								
+361	Herato1805	7119480	7119726	+	0	NA	Intergenic	Intergenic	6005	ID=evm.model.Herato1805.203-E1;Parent=evm.model.Herato1805.203								
+282	Herato1904	5872786	5873270	+	0	NA	Intergenic	Intergenic	-8600	ID=evm.model.Herato1904.211-E1;Parent=evm.model.Herato1904.211								
+323	Herato1507	497799	498109	+	0	NA	Intergenic	Intergenic	-15227	ID=evm.model.Herato1507.24-E1;Parent=evm.model.Herato1507.24								
+333	Herato1910	4077149	4077497	+	0	NA	Intergenic	Intergenic	-64722	ID=evm.model.Herato1910.177-E1;Parent=evm.model.Herato1910.177								
+21	Herato1301	21845416	21845802	+	0	NA	Intergenic	Intergenic	6666	ID=evm.model.Herato1301.740-E1;Parent=evm.model.Herato1301.740								
+221	Herato1301	14332676	14333102	+	0	NA	Intergenic	Intergenic	-15093	ID=evm.model.Herato1301.537-E1;Parent=evm.model.Herato1301.537								
+605	Herato1408	3468656	3469002	+	0	NA	Intergenic	Intergenic	-8842	ID=evm.model.Herato1408.117.2-E11;Parent=evm.model.Herato1408.117.2								
+263	Herato1301	13935143	13935445	+	0	NA	Intergenic	Intergenic	70303	ID=evm.model.Herato1301.535-E11;Parent=evm.model.Herato1301.535								
+231	Herato1301	2017646	2018216	+	0	NA	Intergenic	Intergenic	4721	ID=evm.model.Herato1301.52-E2;Parent=evm.model.Herato1301.52								
+426	Herato0101	17109810	17110194	+	0	NA	promoter-TSS (ID=evm.model.Herato0101.662-E6;Parent=evm.model.Herato0101.662)	-promoter-TSS (ID=evm.model.Herato0101.662-E6;Parent=evm.model.Herato0101.662)	208	ID=evm.model.Herato0101.662-E5;Parent=evm.model.Herato0101.662								
+186	Herato0501	507821	508048	+	0	NA	Intergenic	Intergenic	11898	ID=evm.model.Herato0501.17-E10;Parent=evm.model.Herato0501.17								
+583	Herato1301	13902955	13904133	+	0	NA	Intergenic	Intergenic	38553	ID=evm.model.Herato1301.535-E11;Parent=evm.model.Herato1301.535								
+470	Herato0601	1160116	1160561	+	0	NA	Intergenic	Intergenic	38831	ID=evm.model.Herato0601.11-E2;Parent=evm.model.Herato0601.11								
+436	Herato0204	784987	785352	+	0	NA	Intergenic	Intergenic	-120003	ID=evm.model.Herato0204.28-E1;Parent=evm.model.Herato0204.28								
+378	Herato0501	1192631	1193070	+	0	NA	promoter-TSS (ID=evm.model.Herato0501.56-E2;Parent=evm.model.Herato0501.56)	-promoter-TSS (ID=evm.model.Herato0501.56-E2;Parent=evm.model.Herato0501.56)	204	ID=evm.model.Herato0501.56-E1;Parent=evm.model.Herato0501.56								
+492	Herato0701	10948881	10949446	+	0	NA	promoter-TSS (ID=evm.model.Herato0701.468-E6;Parent=evm.model.Herato0701.468)	-promoter-TSS (ID=evm.model.Herato0701.468-E6;Parent=evm.model.Herato0701.468)	81	ID=evm.model.Herato0701.468-E6;Parent=evm.model.Herato0701.468								
+630	Herato1701	4574244	4574870	+	0	NA	Intergenic	Intergenic	-63925	ID=evm.model.Herato1701.107-E1;Parent=evm.model.Herato1701.107								
+676	Herato1910	961342	961917	+	0	NA	promoter-TSS (ID=evm.model.Herato1910.69-E16;Parent=evm.model.Herato1910.69)	-promoter-TSS (ID=evm.model.Herato1910.69-E16;Parent=evm.model.Herato1910.69)	150	ID=evm.model.Herato1910.69.1-E15;Parent=evm.model.Herato1910.69.1								
+620	Herato1603	3544106	3544432	+	0	NA	Intergenic	Intergenic	6036	ID=evm.model.Herato1603.94-E1;Parent=evm.model.Herato1603.94								
+115	Herato0901	9849282	9849857	+	0	NA	TTS (ID=evm.model.Herato0901.307-E8;Parent=evm.model.Herato0901.307)	-TTS (ID=evm.model.Herato0901.307-E8;Parent=evm.model.Herato0901.307)	393	ID=evm.model.Herato0901.307-E8;Parent=evm.model.Herato0901.307								
+396	Herato1901	2128765	2129139	+	0	NA	Intergenic	Intergenic	16339	ID=evm.model.Herato1901.62-E1;Parent=evm.model.Herato1901.62								
+645	Herato1805	370802	371161	+	0	NA	promoter-TSS (ID=evm.model.Herato1805.21-E19;Parent=evm.model.Herato1805.21)	-promoter-TSS (ID=evm.model.Herato1805.21-E19;Parent=evm.model.Herato1805.21)	-335	ID=evm.model.Herato1805.21-E19;Parent=evm.model.Herato1805.21								
+166	Herato1007	2548736	2549230	+	0	NA	Intergenic	Intergenic	-20921	ID=evm.model.Herato1007.91-E1;Parent=evm.model.Herato1007.91								
+563	Herato1202	10559910	10560511	+	0	NA	Intergenic	Intergenic	4087	ID=evm.model.Herato1202.415-E1;Parent=evm.model.Herato1202.415								
+521	Herato0821	2182954	2183488	+	0	NA	Intergenic	Intergenic	13142	ID=evm.model.Herato0821.84.1-E4;Parent=evm.model.Herato0821.84.1								
+417	Herato0101	9779778	9780168	+	0	NA	Intergenic	Intergenic	-23803	ID=evm.model.Herato0101.287-E1;Parent=evm.model.Herato0101.287								
+531	Herato1001	1768477	1769227	+	0	NA	Intergenic	Intergenic	3846	ID=evm.model.Herato1001.64-E26;Parent=evm.model.Herato1001.64								
+283	Herato1301	20630679	20631004	+	0	NA	Intergenic	Intergenic	-3844	ID=evm.model.Herato1301.702-E1;Parent=evm.model.Herato1301.702								
+322	Herato1904	3386583	3386928	+	0	NA	Intergenic	Intergenic	-21957	ID=evm.model.Herato1904.118-E1;Parent=evm.model.Herato1904.118								
+332	Herato1910	4009100	4009824	+	0	NA	Intergenic	Intergenic	-68861	ID=evm.model.Herato1910.174-E1;Parent=evm.model.Herato1910.174								
+206	Herato1603	2903241	2903464	+	0	NA	Intergenic	Intergenic	16692	ID=evm.model.Herato1603.83-E1;Parent=evm.model.Herato1603.83								
+650	Herato1805	3034410	3034946	+	0	NA	Intergenic	Intergenic	-8048	ID=evm.model.Herato1805.88-E1;Parent=evm.model.Herato1805.88								
+401	Herato0503	5124219	5124649	+	0	NA	Intergenic	Intergenic	-5447	ID=evm.model.Herato0503.163-E2;Parent=evm.model.Herato0503.163								
+374	Herato0310	2075519	2076123	+	0	NA	Intergenic	Intergenic	-10901	ID=evm.model.Herato0310.46.1-E2;Parent=evm.model.Herato0310.46.1								
+251	Herato1301	2416003	2416534	+	0	NA	Intergenic	Intergenic	9387	ID=evm.model.Herato1301.60-E4;Parent=evm.model.Herato1301.60								
+275	Herato1301	15223914	15224230	+	0	NA	Intergenic	Intergenic	2541	ID=evm.model.Herato1301.564.1-E3;Parent=evm.model.Herato1301.564.1								
+546	Herato1007	1646907	1647868	+	0	NA	Intergenic	Intergenic	30478	ID=evm.model.Herato1007.74-E6;Parent=evm.model.Herato1007.74								
+143	Herato1003	3912418	3913829	+	0	NA	Intergenic	Intergenic	4264	ID=evm.model.Herato1003.113-E7;Parent=evm.model.Herato1003.113								
+456	Herato0411	4772345	4773082	+	0	NA	Intergenic	Intergenic	29837	ID=evm.model.Herato0411.102-E3;Parent=evm.model.Herato0411.102								
+441	Herato0310	2076468	2077503	+	0	NA	Intergenic	Intergenic	-12065	ID=evm.model.Herato0310.46.1-E2;Parent=evm.model.Herato0310.46.1								
+575	Herato1301	3675844	3676285	+	0	NA	promoter-TSS (ID=evm.model.Herato1301.106-E15;Parent=evm.model.Herato1301.106)	-promoter-TSS (ID=evm.model.Herato1301.106-E15;Parent=evm.model.Herato1301.106)	-64	ID=evm.model.Herato1301.106-E15;Parent=evm.model.Herato1301.106								
+613	Herato1505	2452959	2455205	+	0	NA	promoter-TSS (ID=evm.model.Herato1505.95-E5;Parent=evm.model.Herato1505.95)	-promoter-TSS (ID=evm.model.Herato1505.95-E5;Parent=evm.model.Herato1505.95)	-613	ID=evm.model.Herato1505.95-E5;Parent=evm.model.Herato1505.95								
+551	Herato1108	4605045	4605326	+	0	NA	Intergenic	Intergenic	9576	ID=evm.model.Herato1108.179-E1;Parent=evm.model.Herato1108.179								
+246	Herato1301	1301527	1301897	+	0	NA	Intergenic	Intergenic	7160	ID=evm.model.Herato1301.36-E12;Parent=evm.model.Herato1301.36								
+352	Herato1910	5281344	5281870	+	0	NA	promoter-TSS (ID=evm.model.Herato1910.202-E4;Parent=evm.model.Herato1910.202)	-promoter-TSS (ID=evm.model.Herato1910.202-E4;Parent=evm.model.Herato1910.202)	72	ID=evm.model.Herato1910.202.1-E3;Parent=evm.model.Herato1910.202.1								
+103	Herato0901	3767378	3767937	+	0	NA	promoter-TSS (ID=evm.model.Herato0901.93-E2;Parent=evm.model.Herato0901.93)	-promoter-TSS (ID=evm.model.Herato0901.93-E2;Parent=evm.model.Herato0901.93)	-258	ID=evm.model.Herato0901.93-E2;Parent=evm.model.Herato0901.93								
+506	Herato0701	14664100	14664619	+	0	NA	Intergenic	Intergenic	-46921	ID=evm.model.Herato0701.665-E1;Parent=evm.model.Herato0701.665								
+218	Herato1301	13936349	13937087	+	0	NA	Intergenic	Intergenic	71727	ID=evm.model.Herato1301.535-E11;Parent=evm.model.Herato1301.535								
+684	Herato2001	12487076	12487453	+	0	NA	Intergenic	Intergenic	21580	ID=evm.model.Herato2001.473-E3;Parent=evm.model.Herato2001.473								
+343	Herato0503	8842017	8843118	+	0	NA	Intergenic	Intergenic	-2611	ID=evm.model.Herato0503.337-E1;Parent=evm.model.Herato0503.337								
+90	Herato0821	735520	736312	+	0	NA	Intergenic	Intergenic	47205	ID=novel_model_97-E1;Parent=novel_model_97								
+174	Herato1807	5158435	5158912	+	0	NA	Intergenic	Intergenic	2048	ID=evm.model.Herato1807.127-E1;Parent=evm.model.Herato1807.127								
+303	Herato1807	1011236	1011506	+	0	NA	Intergenic	Intergenic	-22168	ID=evm.model.Herato1807.18-E2;Parent=evm.model.Herato1807.18								
+518	Herato0821	2047628	2048000	+	0	NA	Intergenic	Intergenic	5598	ID=evm.model.Herato0821.83-E3;Parent=evm.model.Herato0821.83								
+94	Herato0821	1862657	1863141	+	0	NA	Intergenic	Intergenic	4412	ID=evm.model.Herato0821.68-E6;Parent=evm.model.Herato0821.68								
+152	Herato1301	21913274	21913583	+	0	NA	Intergenic	Intergenic	10544	ID=evm.model.Herato1301.742.1-E29;Parent=evm.model.Herato1301.742.1								
+664	Herato1807	3606350	3607168	+	0	NA	Intergenic	Intergenic	1343	ID=evm.model.Herato1807.69-E13;Parent=evm.model.Herato1807.69								
+315	Herato2001	2339007	2339802	+	0	NA	Intergenic	Intergenic	25671	ID=evm.model.Herato2001.61-E16;Parent=evm.model.Herato2001.61								
+178	Herato1108	3381965	3382394	+	0	NA	Intergenic	Intergenic	3419	ID=evm.model.Herato1108.115-E3;Parent=evm.model.Herato1108.115								
+293	Herato1805	8731064	8731296	+	0	NA	Intergenic	Intergenic	-10629	ID=evm.model.Herato1805.260-E1;Parent=evm.model.Herato1805.260								
+71	Herato0503	8935698	8936102	+	0	NA	Intergenic	Intergenic	35029	ID=evm.model.Herato0503.339-E2;Parent=evm.model.Herato0503.339								
+419	Herato0101	11882829	11883268	+	0	NA	TTS (ID=evm.model.Herato0101.377-E5;Parent=evm.model.Herato0101.377)	-TTS (ID=evm.model.Herato0101.377-E5;Parent=evm.model.Herato0101.377)	666	ID=evm.model.Herato0101.377-E6;Parent=evm.model.Herato0101.377								
+462	Herato0503	4917372	4917852	+	0	NA	TTS (ID=evm.model.Herato0503.142.1-E2;Parent=evm.model.Herato0503.142.1)	-TTS (ID=evm.model.Herato0503.142.1-E2;Parent=evm.model.Herato0503.142.1)	-1025	ID=evm.model.Herato0503.142-E2;Parent=evm.model.Herato0503.142								
+214	Herato1605	1068553	1068844	+	0	NA	Intergenic	Intergenic	5375	ID=evm.model.Herato1605.35-E1;Parent=evm.model.Herato1605.35								
+688	Herato2101	9081556	9082536	+	0	NA	Intergenic	Intergenic	-30212	ID=evm.model.Herato2101.309-E1;Parent=evm.model.Herato2101.309								
+386	Herato1805	2437935	2438919	+	0	NA	Intergenic	Intergenic	-128351	ID=evm.model.Herato1805.85-E1;Parent=evm.model.Herato1805.85								
+668	Herato1904	3384822	3385533	+	0	NA	Intergenic	Intergenic	-23535	ID=evm.model.Herato1904.118-E1;Parent=evm.model.Herato1904.118								
+366	Herato1701	2072721	2073229	+	0	NA	Intergenic	Intergenic	-52041	ID=evm.model.Herato1701.57.1-E1;Parent=evm.model.Herato1701.57.1								
+482	Herato0606	10650801	10651729	+	0	NA	promoter-TSS (ID=evm.model.Herato0606.348-E7;Parent=evm.model.Herato0606.348)	-promoter-TSS (ID=evm.model.Herato0606.348-E7;Parent=evm.model.Herato0606.348)	-108	ID=evm.model.Herato0606.348.1-E5;Parent=evm.model.Herato0606.348.1								
+122	Herato1001	1251323	1251624	+	0	NA	Intergenic	Intergenic	3418	ID=evm.model.Herato1001.51-E2;Parent=evm.model.Herato1001.51								
+132	Herato2101	11047195	11047750	+	0	NA	Intergenic	Intergenic	6672	ID=evm.model.Herato2101.383-E1;Parent=evm.model.Herato2101.383								
+41	Herato0701	3320800	3321369	+	0	NA	Intergenic	Intergenic	-28088	ID=evm.model.Herato0701.169-E1;Parent=evm.model.Herato0701.169								
+514	Herato0801	4528671	4529005	+	0	NA	Intergenic	Intergenic	-3084	ID=evm.model.Herato0801.100-E2;Parent=evm.model.Herato0801.100								
+593	Herato1301	14375808	14376949	+	0	NA	Intergenic	Intergenic	-21064	ID=evm.model.Herato1301.538-E1;Parent=evm.model.Herato1301.538								
+196	Herato1507	10121269	10121579	+	0	NA	Intergenic	Intergenic	-11434	ID=evm.model.Herato1507.338-E1;Parent=evm.model.Herato1507.338								
+292	Herato0204	775127	775320	+	0	NA	Intergenic	Intergenic	-124318	ID=evm.model.Herato0204.27.6-E1;Parent=evm.model.Herato0204.27.6								
+671	Herato1904	5844152	5844554	+	0	NA	Intergenic	Intergenic	20075	ID=evm.model.Herato1904.211-E1;Parent=evm.model.Herato1904.211								
+655	Herato1805	5745159	5745583	+	0	NA	Intergenic	Intergenic	27977	ID=evm.model.Herato1805.157-E2;Parent=evm.model.Herato1805.157								
+517	Herato0821	2033735	2034720	+	0	NA	promoter-TSS (ID=evm.model.Herato0821.137-E2;Parent=evm.model.Herato0821.137)	-promoter-TSS (ID=evm.model.Herato0821.137-E2;Parent=evm.model.Herato0821.137)	-147	ID=evm.model.Herato0821.137-E2;Parent=evm.model.Herato0821.137								
+421	Herato0101	12788908	12789911	+	0	NA	Intergenic	Intergenic	-2698	ID=evm.model.Herato0101.433-E4;Parent=evm.model.Herato0101.433								
+181	Herato1505	2113384	2114284	+	0	NA	Intergenic	Intergenic	-25993	ID=evm.model.Herato1505.85-E1;Parent=evm.model.Herato1505.85								
+463	Herato0508	234876	235054	+	0	NA	Intergenic	Intergenic	-23587	ID=evm.model.Herato0508.4-E1;Parent=evm.model.Herato0508.4								
+431	Herato0101	19186526	19187059	+	0	NA	Intergenic	Intergenic	3649	ID=evm.model.Herato0101.759-E3;Parent=evm.model.Herato0101.759								
+226	Herato1301	17605850	17606298	+	0	NA	Intergenic	Intergenic	-12558	ID=evm.model.Herato1301.619-E1;Parent=evm.model.Herato1301.619								
+270	Herato1301	14472736	14472982	+	0	NA	TTS (ID=evm.model.Herato1301.545-E4;Parent=evm.model.Herato1301.545)	-TTS (ID=evm.model.Herato1301.545-E4;Parent=evm.model.Herato1301.545)	741	ID=evm.model.Herato1301.545-E4;Parent=evm.model.Herato1301.545								
+236	Herato1301	21968455	21968633	+	0	NA	Intergenic	Intergenic	-47809	ID=novel_model_173-E1;Parent=novel_model_173								
+217	Herato1605	2671490	2671749	+	0	NA	Intergenic	Intergenic	-1012	ID=evm.model.Herato1605.175-E8;Parent=evm.model.Herato1605.175								
+161	Herato1408	837182	837657	+	0	NA	Intergenic	Intergenic	97542	ID=evm.model.Herato1408.26-E3;Parent=evm.model.Herato1408.26								
+570	Herato1202	15110203	15110867	+	0	NA	Intergenic	Intergenic	-56783	ID=evm.model.Herato1202.577-E1;Parent=evm.model.Herato1202.577								
+526	Herato0901	9043947	9044368	+	0	NA	Intergenic	Intergenic	3274	ID=evm.model.Herato0901.296-E5;Parent=evm.model.Herato0901.296								
+483	Herato0701	3109558	3109754	+	0	NA	Intergenic	Intergenic	36141	ID=evm.model.Herato0701.167-E8;Parent=evm.model.Herato0701.167								
+123	Herato1301	6578894	6579412	+	0	NA	Intergenic	Intergenic	-2386	ID=evm.model.Herato1301.239.1-E1;Parent=evm.model.Herato1301.239.1								
+536	Herato1003	1331729	1332532	+	0	NA	Intergenic	Intergenic	-3614	ID=evm.model.Herato1003.45-E1;Parent=evm.model.Herato1003.45								
+133	Herato1301	13879294	13879838	+	0	NA	Intergenic	Intergenic	14575	ID=evm.model.Herato1301.535-E11;Parent=evm.model.Herato1301.535								
+592	Herato1301	14372481	14373360	+	0	NA	Intergenic	Intergenic	-24522	ID=evm.model.Herato1301.538-E1;Parent=evm.model.Herato1301.538								
+391	Herato1904	5803857	5804324	+	0	NA	Intergenic	Intergenic	60338	ID=evm.model.Herato1904.211-E1;Parent=evm.model.Herato1904.211								
+541	Herato1005	490888	491173	+	0	NA	promoter-TSS (ID=evm.model.Herato1005.33-E2;Parent=evm.model.Herato1005.33)	-promoter-TSS (ID=evm.model.Herato1005.33-E2;Parent=evm.model.Herato1005.33)	-808	ID=evm.model.Herato1005.33-E2;Parent=evm.model.Herato1005.33								
+451	Herato0310	7267008	7267357	+	0	NA	Intergenic	Intergenic	-16117	ID=evm.model.Herato0310.179-E1;Parent=evm.model.Herato0310.179								
+667	Herato1904	3356007	3356804	+	0	NA	Intergenic	Intergenic	-52307	ID=evm.model.Herato1904.118-E1;Parent=evm.model.Herato1904.118								
+475	Herato0601	3049156	3049634	+	0	NA	Intergenic	Intergenic	-77783	ID=evm.model.Herato0601.74-E1;Parent=evm.model.Herato0601.74								
+342	Herato1910	615174	615682	+	0	NA	Intergenic	Intergenic	3943	ID=evm.model.Herato1910.52-E1;Parent=evm.model.Herato1910.52								
+600	Herato1301	21358032	21358231	+	0	NA	Intergenic	Intergenic	-16696	ID=evm.model.Herato1301.727.2-E1;Parent=evm.model.Herato1301.727.2								
+256	Herato2101	1975705	1976124	+	0	NA	Intergenic	Intergenic	-1205	ID=evm.model.Herato2101.66-E3;Parent=evm.model.Herato2101.66								
+379	Herato0503	8879170	8879386	+	0	NA	Intergenic	Intergenic	-4138	ID=evm.model.Herato0503.337.1-E6;Parent=evm.model.Herato0503.337.1								
+406	Herato0101	2055941	2056336	+	0	NA	Intergenic	Intergenic	18303	ID=evm.model.Herato0101.51_evm.model.Herato0101.50-E2;Parent=evm.model.Herato0101.51_evm.model.Herato0101.50								
+625	Herato1605	3087190	3087988	+	0	NA	Intergenic	Intergenic	-38644	ID=evm.model.Herato1605.100-E1;Parent=evm.model.Herato1605.100								
+201	Herato1202	2389376	2389599	+	0	NA	Intergenic	Intergenic	1685	ID=evm.model.Herato1202.82-E3;Parent=evm.model.Herato1202.82								
+110	Herato0901	6172316	6172649	+	0	NA	Intergenic	Intergenic	-4136	ID=evm.model.Herato0901.205-E1;Parent=evm.model.Herato0901.205								
+635	Herato1701	8865603	8865891	+	0	NA	Intergenic	Intergenic	-2216	ID=evm.model.Herato1701.272-E12;Parent=evm.model.Herato1701.272								
+69	Herato1202	46860	47268	+	0	NA	promoter-TSS (ID=evm.model.Herato1202.1-E11;Parent=evm.model.Herato1202.1)	-promoter-TSS (ID=evm.model.Herato1202.1-E11;Parent=evm.model.Herato1202.1)	-944	ID=evm.model.Herato1202.1-E11;Parent=evm.model.Herato1202.1								
+302	Herato1807	691690	692003	+	0	NA	Intergenic	Intergenic	-8506	ID=evm.model.Herato1807.12-E2;Parent=evm.model.Herato1807.12								
+177	Herato1411	4965424	4965689	+	0	NA	Intergenic	Intergenic	-1595	ID=evm.model.Herato1411.191-E4;Parent=evm.model.Herato1411.191								
+640	Herato1703	1166637	1166900	+	0	NA	Intergenic	Intergenic	-8323	ID=evm.model.Herato1703.19.5-E3;Parent=evm.model.Herato1703.19.5								
+501	Herato0701	14603940	14604604	+	0	NA	Intergenic	Intergenic	13166	ID=evm.model.Herato0701.665-E1;Parent=evm.model.Herato0701.665								
+37	Herato0403	764042	764425	+	0	NA	Intergenic	Intergenic	-68989	ID=evm.model.Herato0403.11-E1;Parent=evm.model.Herato0403.11								
+241	Herato1202	19364494	19364691	+	0	NA	Intergenic	Intergenic	8886	ID=evm.model.Herato1202.783.3-E1;Parent=evm.model.Herato1202.783.3								
+446	Herato0310	5437662	5438067	+	0	NA	Intergenic	Intergenic	-6048	ID=evm.model.Herato0310.128-E1;Parent=evm.model.Herato0310.128								
+687	Herato2101	9066551	9067029	+	0	NA	Intergenic	Intergenic	-45468	ID=evm.model.Herato2101.309-E1;Parent=evm.model.Herato2101.309								
+153	Herato0310	3736240	3736530	+	0	NA	Intergenic	Intergenic	-4423	ID=evm.model.Herato0310.90-E1;Parent=evm.model.Herato0310.90								
+556	Herato1108	7057194	7057510	+	0	NA	Intergenic	Intergenic	-2962	ID=evm.model.Herato1108.315-E2;Parent=evm.model.Herato1108.315								
+362	Herato0403	507205	507576	+	0	NA	Intergenic	Intergenic	-17640	ID=evm.model.Herato0403.39-E1;Parent=evm.model.Herato0403.39								
+281	Herato0310	452109	452526	+	0	NA	Intergenic	Intergenic	-19268	ID=evm.model.Herato0310.10-E7;Parent=evm.model.Herato0310.10								
+136	Herato1301	13921554	13922725	+	0	NA	Intergenic	Intergenic	57148	ID=evm.model.Herato1301.535-E11;Parent=evm.model.Herato1301.535								
+647	Herato1805	2413464	2414108	+	0	NA	Intergenic	Intergenic	-103710	ID=evm.model.Herato1805.85-E1;Parent=evm.model.Herato1805.85								
+533	Herato1001	3437456	3437675	+	0	NA	Intergenic	Intergenic	-37444	ID=evm.model.Herato1001.116-E1;Parent=evm.model.Herato1001.116								
+561	Herato1202	2339293	2340138	+	0	NA	Intergenic	Intergenic	-9548	ID=evm.model.Herato1202.80-E1;Parent=evm.model.Herato1202.80								
+170	Herato1910	4295702	4295938	+	0	NA	Intergenic	Intergenic	32502	ID=evm.model.Herato1910.178-E2;Parent=evm.model.Herato1910.178								
+126	Herato1001	3192357	3192769	+	0	NA	Intergenic	Intergenic	31035	ID=evm.model.Herato1001.114-E3;Parent=evm.model.Herato1001.114								
+523	Herato0821	2389400	2390682	+	0	NA	Intergenic	Intergenic	1607	ID=evm.model.Herato0821.84.1-E10;Parent=evm.model.Herato0821.84.1								
+486	Herato0701	6768436	6769067	+	0	NA	Intergenic	Intergenic	8822	ID=evm.model.Herato0701.305-E1;Parent=evm.model.Herato0701.305								
+415	Herato0101	8853964	8854285	+	0	NA	Intergenic	Intergenic	-1615	ID=evm.model.Herato0101.263-E2;Parent=evm.model.Herato0101.263								
+680	Herato2001	8498149	8498582	+	0	NA	Intergenic	Intergenic	-8113	ID=evm.model.Herato2001.357-E2;Parent=evm.model.Herato2001.357								
+192	Herato0101	18637273	18637458	+	0	NA	Intergenic	Intergenic	-8899	ID=evm.model.Herato0101.741-E1;Parent=evm.model.Herato0101.741								
+319	Herato1505	2012397	2013001	+	0	NA	Intergenic	Intergenic	-7712	ID=evm.model.Herato1505.84-E1;Parent=evm.model.Herato1505.84								
+607	Herato1411	1608273	1608870	+	0	NA	Intergenic	Intergenic	5447	ID=evm.model.Herato1411.45-E3;Parent=evm.model.Herato1411.45								
+660	Herato1807	1061727	1062064	+	0	NA	Intergenic	Intergenic	8109	ID=evm.model.Herato1807.18-E14;Parent=evm.model.Herato1807.18								
+581	Herato1301	12124847	12125544	+	0	NA	Intergenic	Intergenic	27893	ID=evm.model.Herato1301.479-E1;Parent=evm.model.Herato1301.479								
+117	Herato0901	11562078	11562254	+	0	NA	Intergenic	Intergenic	11815	ID=evm.model.Herato0901.347-E1;Parent=evm.model.Herato0901.347								
+466	Herato0601	1055801	1056450	+	0	NA	Intergenic	Intergenic	-62966	ID=evm.model.Herato0601.11-E1;Parent=evm.model.Herato0601.11								
+31	Herato0606	8928389	8928828	+	0	NA	Intergenic	Intergenic	-6609	ID=evm.model.Herato0606.284-E2;Parent=evm.model.Herato0606.284								
+233	Herato0215	3256924	3257525	+	0	NA	Intergenic	Intergenic	8733	ID=evm.model.Herato0215.125-E1;Parent=evm.model.Herato0215.125								
+223	Herato1701	975777	976187	+	0	NA	Intergenic	Intergenic	-103478	ID=evm.model.Herato1701.34-E1;Parent=evm.model.Herato1701.34								
+382	Herato0503	3435941	3436457	+	0	NA	Intergenic	Intergenic	-35883	ID=evm.model.Herato0503.117-E1;Parent=evm.model.Herato0503.117								
+261	Herato1801	3787123	3787288	+	0	NA	Intergenic	Intergenic	-2354	ID=evm.model.Herato1801.133-E1;Parent=evm.model.Herato1801.133								
+577	Herato1301	4113423	4113732	+	0	NA	Intergenic	Intergenic	33578	ID=evm.model.Herato1301.112-E34;Parent=evm.model.Herato1301.112								
+210	Herato1202	7057038	7057452	+	0	NA	Intergenic	Intergenic	-2583	ID=evm.model.Herato1202.282-E1;Parent=evm.model.Herato1202.282								
+101	Herato1202	16429814	16430286	+	0	NA	promoter-TSS (ID=evm.model.Herato1202.656-E4;Parent=evm.model.Herato1202.656)	-promoter-TSS (ID=evm.model.Herato1202.656-E4;Parent=evm.model.Herato1202.656)	65	ID=evm.model.Herato1202.659-E3;Parent=evm.model.Herato1202.659								
+611	Herato1411	6725811	6726367	+	0	NA	Intergenic	Intergenic	-5244	ID=evm.model.Herato1411.246.3-E1;Parent=evm.model.Herato1411.246.3								
+553	Herato1108	5813795	5814103	+	0	NA	Intergenic	Intergenic	-17485	ID=evm.model.Herato1108.245-E1;Parent=evm.model.Herato1108.245								
+156	Herato0310	5677919	5678271	+	0	NA	Intergenic	Intergenic	21829	ID=evm.model.Herato0310.132-E3;Parent=evm.model.Herato0310.132								
+443	Herato0310	5340726	5341249	+	0	NA	Intergenic	Intergenic	-102925	ID=evm.model.Herato0310.128-E1;Parent=evm.model.Herato0310.128								
+141	Herato1301	14362438	14362781	+	0	NA	Intergenic	Intergenic	-34833	ID=evm.model.Herato1301.538-E1;Parent=evm.model.Herato1301.538								
+253	Herato1301	4179428	4179608	+	0	NA	Intergenic	Intergenic	-2942	ID=evm.model.Herato1301.115-E6;Parent=evm.model.Herato1301.115								
+277	Herato1505	3158076	3158643	+	0	NA	Intergenic	Intergenic	10109	ID=evm.model.Herato1505.137-E4;Parent=evm.model.Herato1505.137								
+403	Herato0101	3890074	3890392	+	0	NA	Intergenic	Intergenic	-19476	ID=evm.model.Herato0101.118-E1;Parent=evm.model.Herato0101.118								
+510	Herato0701	18583321	18584305	+	0	NA	Intergenic	Intergenic	-50470	ID=evm.model.Herato0701.760-E1;Parent=evm.model.Herato0701.760								
+608	Herato1411	4154191	4154513	+	0	NA	Intergenic	Intergenic	30370	ID=evm.model.Herato1411.164-E18;Parent=evm.model.Herato1411.164								
+639	Herato1703	1057221	1057545	+	0	NA	Intergenic	Intergenic	-4186	ID=evm.model.Herato1703.17-E1;Parent=evm.model.Herato1703.17								
+306	Herato1411	405785	406104	+	0	NA	Intergenic	Intergenic	12581	ID=evm.model.Herato1411.5_evm.model.Herato1411.6-E7;Parent=evm.model.Herato1411.5_evm.model.Herato1411.6								
+629	Herato1701	4470402	4470868	+	0	NA	Intergenic	Intergenic	5419	ID=evm.model.Herato1701.106-E3;Parent=evm.model.Herato1701.106								
+274	Herato1301	15147724	15148102	+	0	NA	Intergenic	Intergenic	-2389	ID=evm.model.Herato1301.561.5-E1;Parent=evm.model.Herato1301.561.5								
+118	Herato1301	2539293	2539512	+	0	NA	TTS (ID=evm.model.Herato1301.62-E4;Parent=evm.model.Herato1301.62)	-TTS (ID=evm.model.Herato1301.62-E4;Parent=evm.model.Herato1301.62)	815	ID=evm.model.Herato1301.62-E4;Parent=evm.model.Herato1301.62								
+375	Herato2001	12389988	12390385	+	0	NA	promoter-TSS (ID=evm.model.Herato2001.472-E2;Parent=evm.model.Herato2001.472)	-promoter-TSS (ID=evm.model.Herato2001.472-E2;Parent=evm.model.Herato2001.472)	-38	ID=evm.model.Herato2001.472-E2;Parent=evm.model.Herato2001.472								
+351	Herato2101	3672103	3672825	+	0	NA	Intergenic	Intergenic	-20095	ID=evm.model.Herato2101.124-E1;Parent=evm.model.Herato2101.124								
+552	Herato1108	5803138	5803490	+	0	NA	Intergenic	Intergenic	-28120	ID=evm.model.Herato1108.245-E1;Parent=evm.model.Herato1108.245								
+479	Herato0606	3200441	3200867	+	0	NA	Intergenic	Intergenic	-13188	ID=evm.model.Herato0606.101-E1;Parent=evm.model.Herato0606.101								
+442	Herato0310	3834181	3834588	+	0	NA	Intergenic	Intergenic	26003	ID=evm.model.Herato0310.96-E12;Parent=evm.model.Herato0310.96								
+77	Herato0101	12203416	12203669	+	0	NA	Intergenic	Intergenic	-2597	ID=evm.model.Herato0101.392-E2;Parent=evm.model.Herato0101.392								
+63	Herato0701	14497005	14497628	+	0	NA	Intergenic	Intergenic	-1154	ID=evm.model.Herato0701.664-E1;Parent=evm.model.Herato0701.664								
+62	Herato0701	14464934	14465557	+	0	NA	Intergenic	Intergenic	-2744	ID=evm.model.Herato0701.662-E1;Parent=evm.model.Herato0701.662								
+648	Herato1805	2466906	2468042	+	0	NA	Intergenic	Intergenic	-143646	ID=evm.model.Herato1805.86-E1;Parent=evm.model.Herato1805.86								
+252	Herato1301	2604671	2605018	+	0	NA	Intergenic	Intergenic	8427	ID=evm.model.Herato1301.64-E3;Parent=evm.model.Herato1301.64								
+346	Herato1601	5158095	5158413	+	0	NA	Intergenic	Intergenic	-1289	ID=evm.model.Herato1601.112-E5;Parent=evm.model.Herato1601.112								
+402	Herato2101	4562474	4562894	+	0	NA	promoter-TSS (ID=evm.model.Herato2101.147-E5;Parent=evm.model.Herato2101.147)	-promoter-TSS (ID=evm.model.Herato2101.147-E5;Parent=evm.model.Herato2101.147)	-460	ID=evm.model.Herato2101.147.1-E5;Parent=evm.model.Herato2101.147.1								
+574	Herato1301	1628079	1629344	+	0	NA	Intergenic	Intergenic	-15202	ID=evm.model.Herato1301.38-E1;Parent=evm.model.Herato1301.38								
+47	Herato0701	8558912	8559145	+	0	NA	Intergenic	Intergenic	62191	ID=evm.model.Herato0701.373-E7;Parent=evm.model.Herato0701.373								
+331	Herato2001	11190594	11190865	+	0	NA	Intergenic	Intergenic	7907	ID=evm.model.Herato2001.429-E3;Parent=evm.model.Herato2001.429								
+363	Herato1701	1244320	1244683	+	0	NA	Intergenic	Intergenic	-75866	ID=evm.model.Herato1701.36.1-E1;Parent=evm.model.Herato1701.36.1								
+321	Herato1505	2428610	2430159	+	0	NA	promoter-TSS (ID=evm.model.Herato1505.93-E2;Parent=evm.model.Herato1505.93)	-promoter-TSS (ID=evm.model.Herato1505.93-E2;Parent=evm.model.Herato1505.93)	-53	ID=evm.model.Herato1505.93-E3;Parent=evm.model.Herato1505.93								
+532	Herato1001	3436533	3436972	+	0	NA	Intergenic	Intergenic	-38257	ID=evm.model.Herato1001.116-E1;Parent=evm.model.Herato1001.116								
+98	Herato0901	941532	942121	+	0	NA	Intergenic	Intergenic	-19086	ID=evm.model.Herato0901.36.4-E2;Parent=evm.model.Herato0901.36.4								
+522	Herato0821	2196983	2197497	+	0	NA	Intergenic	Intergenic	-10600	ID=evm.model.Herato0821.84-E5;Parent=evm.model.Herato0821.84								
+114	Herato1301	1070399	1071077	+	0	NA	Intergenic	Intergenic	22918	ID=evm.model.Herato1301.33.1-E1;Parent=evm.model.Herato1301.33.1								
+596	Herato1301	19447559	19448000	+	0	NA	Intergenic	Intergenic	-94430	ID=evm.model.Herato1301.671.1-E1;Parent=evm.model.Herato1301.671.1								
+193	Herato1202	18710342	18710738	+	0	NA	promoter-TSS (ID=evm.model.Herato1202.757-E2;Parent=evm.model.Herato1202.757)	-promoter-TSS (ID=evm.model.Herato1202.757-E2;Parent=evm.model.Herato1202.757)	-806	ID=evm.model.Herato1202.757.1-E2;Parent=evm.model.Herato1202.757.1								
+278	Herato1805	2248947	2249151	+	0	NA	Intergenic	Intergenic	61027	ID=evm.model.Herato1805.85-E1;Parent=evm.model.Herato1805.85								
+659	Herato1807	691195	691366	+	0	NA	Intergenic	Intergenic	-7940	ID=evm.model.Herato1807.12-E2;Parent=evm.model.Herato1807.12								
+604	Herato1301	23061782	23062618	+	0	NA	Intergenic	Intergenic	7080	ID=evm.model.Herato1301.770-E2;Parent=evm.model.Herato1301.770								
+296	Herato1908	898299	898528	+	0	NA	Intergenic	Intergenic	14895	ID=evm.model.Herato1908.29-E11;Parent=evm.model.Herato1908.29								
+578	Herato1301	4205628	4208376	+	0	NA	Intergenic	Intergenic	1299	ID=evm.model.Herato1301.116-E2;Parent=evm.model.Herato1301.116								
+9	Herato0601	1063373	1063708	+	0	NA	Intergenic	Intergenic	-55551	ID=evm.model.Herato0601.11-E1;Parent=evm.model.Herato0601.11								
+491	Herato0701	10286222	10286595	+	0	NA	Intergenic	Intergenic	-2051	ID=evm.model.Herato0701.426.3-E1;Parent=evm.model.Herato0701.426.3								
+65	Herato0701	14535928	14536133	+	0	NA	Intergenic	Intergenic	13802	ID=evm.model.Herato0701.664.1-E2;Parent=evm.model.Herato0701.664.1								
+96	Herato1202	14149129	14149637	+	0	NA	Intergenic	Intergenic	3512	ID=evm.model.Herato1202.536-E1;Parent=evm.model.Herato1202.536								
+644	Herato1801	4374955	4375410	+	0	NA	Intergenic	Intergenic	18790	ID=evm.model.Herato1801.151-E8;Parent=evm.model.Herato1801.151								
+232	Herato2001	11194399	11195363	+	0	NA	Intergenic	Intergenic	3755	ID=evm.model.Herato2001.429-E3;Parent=evm.model.Herato2001.429								
+383	Herato2101	1850130	1850320	+	0	NA	Intergenic	Intergenic	-4283	ID=evm.model.Herato2101.63.1-E1;Parent=evm.model.Herato2101.63.1								
+222	Herato1301	14381408	14382155	+	0	NA	Intergenic	Intergenic	-15661	ID=evm.model.Herato1301.538-E1;Parent=evm.model.Herato1301.538								
+284	Herato1805	5094352	5094627	+	0	NA	Intergenic	Intergenic	-31997	ID=evm.model.Herato1805.129-E1;Parent=evm.model.Herato1805.129								
+618	Herato1603	2947294	2947651	+	0	NA	Intergenic	Intergenic	-7741	ID=evm.model.Herato1603.84-E2;Parent=evm.model.Herato1603.84								
+316	Herato0411	3794114	3794363	+	0	NA	promoter-TSS (ID=evm.model.Herato0411.83-E3;Parent=evm.model.Herato0411.83)	-promoter-TSS (ID=evm.model.Herato0411.83-E3;Parent=evm.model.Herato0411.83)	-897	ID=evm.model.Herato0411.83-E3;Parent=evm.model.Herato0411.83								
+46	Herato0701	8428218	8428922	+	0	NA	Intergenic	Intergenic	-20238	ID=evm.model.Herato0701.371-E1;Parent=evm.model.Herato0701.371								
+564	Herato1202	10561979	10562363	+	0	NA	Intergenic	Intergenic	2126	ID=evm.model.Herato1202.415-E1;Parent=evm.model.Herato1202.415								
+108	Herato1202	18504712	18505139	+	0	NA	promoter-TSS (ID=evm.model.Herato1202.748-E9;Parent=evm.model.Herato1202.748)	-promoter-TSS (ID=evm.model.Herato1202.748-E9;Parent=evm.model.Herato1202.748)	-909	ID=evm.model.Herato1202.748-E9;Parent=evm.model.Herato1202.748								
+497	Herato0701	14538404	14539057	+	0	NA	Intergenic	Intergenic	11102	ID=evm.model.Herato0701.664.1-E2;Parent=evm.model.Herato0701.664.1								
+78	Herato0801	1060891	1061166	+	0	NA	Intergenic	Intergenic	-13003	ID=evm.model.Herato0801.19-E1;Parent=evm.model.Herato0801.19								
+139	Herato1301	14337825	14338072	+	0	NA	Intergenic	Intergenic	-20152	ID=evm.model.Herato1301.537-E1;Parent=evm.model.Herato1301.537								
+489	Herato0701	8855242	8855485	+	0	NA	Intergenic	Intergenic	-103060	ID=evm.model.Herato0701.374-E1;Parent=evm.model.Herato0701.374								
+129	Herato1001	4505971	4506266	+	0	NA	Intergenic	Intergenic	-20719	ID=evm.model.Herato1001.152-E1;Parent=evm.model.Herato1001.152								
+85	Herato2001	1032881	1033237	+	0	NA	Intergenic	Intergenic	44343	ID=evm.model.Herato2001.18.1.1-E3;Parent=evm.model.Herato2001.18.1.1								
+385	Herato2001	156294	157421	+	0	NA	Intergenic	Intergenic	5230	ID=evm.model.Herato2001.8-E2;Parent=evm.model.Herato2001.8								
+4	Herato0601	855923	856350	+	0	NA	Intergenic	Intergenic	49351	ID=evm.model.Herato0601.10-E2;Parent=evm.model.Herato0601.10								
+365	Herato2001	7314395	7314631	+	0	NA	TTS (ID=evm.model.Herato2001.284-E5;Parent=evm.model.Herato2001.284)	-TTS (ID=evm.model.Herato2001.284-E5;Parent=evm.model.Herato2001.284)	783	ID=evm.model.Herato2001.284.1-E6;Parent=evm.model.Herato2001.284.1								
+76	Herato0801	51359	51758	+	0	NA	Intergenic	Intergenic	3327	ID=evm.model.Herato0801.3-E2;Parent=evm.model.Herato0801.3								
+469	Herato0601	1144202	1144552	+	0	NA	Intergenic	Intergenic	22870	ID=evm.model.Herato0601.11-E2;Parent=evm.model.Herato0601.11								
+412	Herato0101	7441778	7442352	+	0	NA	Intergenic	Intergenic	-1853	ID=evm.model.Herato0101.228.3.1-E2;Parent=evm.model.Herato0101.228.3.1								
+13	Herato0601	3408062	3408860	+	0	NA	Intergenic	Intergenic	1523	ID=evm.model.Herato0601.80-E5;Parent=evm.model.Herato0601.80								
+48	Herato0701	8631590	8631984	+	0	NA	Intergenic	Intergenic	118114	ID=evm.model.Herato0701.374-E2;Parent=evm.model.Herato0701.374								
+12	Herato1301	14463075	14463807	+	0	NA	TTS (ID=evm.model.Herato1301.545-E2;Parent=evm.model.Herato1301.545)	-TTS (ID=evm.model.Herato1301.545-E2;Parent=evm.model.Herato1301.545)	135	ID=evm.model.Herato1301.545-E2;Parent=evm.model.Herato1301.545								
+584	Herato1301	13933712	13934105	+	0	NA	Intergenic	Intergenic	68917	ID=evm.model.Herato1301.535-E11;Parent=evm.model.Herato1301.535								
+195	Herato0101	18901301	18901966	+	0	NA	Intergenic	Intergenic	-2653	ID=evm.model.Herato0101.746-E4;Parent=evm.model.Herato0101.746								
+264	Herato1301	13946255	13946853	+	0	NA	Intergenic	Intergenic	81563	ID=evm.model.Herato1301.535-E11;Parent=evm.model.Herato1301.535								
+148	Herato1301	20599697	20599891	+	0	NA	Intergenic	Intergenic	1921	ID=evm.model.Herato1301.701-E3;Parent=evm.model.Herato1301.701								
+327	Herato1507	4866748	4867862	+	0	NA	TTS (ID=evm.model.Herato1507.164-E7;Parent=evm.model.Herato1507.164)	-TTS (ID=evm.model.Herato1507.164-E7;Parent=evm.model.Herato1507.164)	188	ID=evm.model.Herato1507.164-E8;Parent=evm.model.Herato1507.164								
+337	Herato1703	231054	231356	+	0	NA	Intergenic	Intergenic	12891	ID=evm.model.Herato1703.2.1-E2;Parent=evm.model.Herato1703.2.1								
+7	Herato0601	975125	975453	+	0	NA	Intergenic	Intergenic	-69368	ID=evm.model.Herato0601.10-E1;Parent=evm.model.Herato0601.10								
+693	Herato2101	14139234	14140238	+	0	NA	Intergenic	Intergenic	-2019	ID=evm.model.Herato2101.453-E3;Parent=evm.model.Herato2101.453								
+97	Herato1202	14314794	14315052	+	0	NA	Intergenic	Intergenic	2270	ID=evm.model.Herato1202.543-E3;Parent=evm.model.Herato1202.543								
+159	Herato1005	3228297	3228461	+	0	NA	Intergenic	Intergenic	16584	ID=evm.model.Herato1005.164-E1;Parent=evm.model.Herato1005.164								
+83	Herato1202	6619165	6619976	+	0	NA	Intergenic	Intergenic	24019	ID=evm.model.Herato1202.271-E6;Parent=evm.model.Herato1202.271								
+82	Herato0801	4326869	4327634	+	0	NA	promoter-TSS (ID=evm.model.Herato0801.89-E5;Parent=evm.model.Herato0801.89)	-promoter-TSS (ID=evm.model.Herato0801.89-E5;Parent=evm.model.Herato0801.89)	-975	ID=evm.model.Herato0801.89-E5;Parent=evm.model.Herato0801.89								
+104	Herato0901	3769172	3769663	+	0	NA	Intergenic	Intergenic	-2018	ID=evm.model.Herato0901.93-E2;Parent=evm.model.Herato0901.93								
+568	Herato1202	15056284	15056674	+	0	NA	Intergenic	Intergenic	-2727	ID=evm.model.Herato1202.577-E1;Parent=evm.model.Herato1202.577								
+288	Herato1301	22992967	22993499	+	0	NA	Intergenic	Intergenic	-60212	ID=evm.model.Herato1301.770-E1;Parent=evm.model.Herato1301.770								
+614	Herato1507	8196699	8198444	+	0	NA	Intergenic	Intergenic	3244	ID=evm.model.Herato1507.292.5-E1;Parent=evm.model.Herato1507.292.5								
+15	Herato0606	2136485	2137283	+	0	NA	Intergenic	Intergenic	-2094	ID=evm.model.Herato0606.65-E4;Parent=evm.model.Herato0606.65								
+268	Herato1301	14385773	14386236	+	0	NA	Intergenic	Intergenic	-11438	ID=evm.model.Herato1301.538-E1;Parent=evm.model.Herato1301.538								
+144	Herato1003	4889608	4890031	+	0	NA	Intergenic	Intergenic	1746	ID=evm.model.Herato1003.151-E2;Parent=evm.model.Herato1003.151								
+588	Herato1301	14143923	14144237	+	0	NA	Intergenic	Intergenic	-136975	ID=evm.model.Herato1301.536-E1;Parent=evm.model.Herato1301.536								
+357	Herato0211	80639	81012	+	0	NA	Intergenic	Intergenic	-7893	ID=evm.model.Herato0211.1.1-E6;Parent=evm.model.Herato0211.1.1								
+373	Herato0503	1421919	1422380	+	0	NA	Intergenic	Intergenic	1514	ID=evm.model.Herato0503.47-E3;Parent=evm.model.Herato0503.47								
+180	Herato1505	2081432	2082052	+	0	NA	Intergenic	Intergenic	-2107	ID=evm.model.Herato1505.85-E4;Parent=evm.model.Herato1505.85								
+420	Herato0101	11895416	11896135	+	0	NA	Intergenic	Intergenic	3885	ID=evm.model.Herato0101.377-E1;Parent=evm.model.Herato0101.377								
+476	Herato0601	3225762	3226078	+	0	NA	Intergenic	Intergenic	-1785	ID=evm.model.Herato0601.76-E2;Parent=evm.model.Herato0601.76								
+430	Herato0101	18826338	18826632	+	0	NA	Intergenic	Intergenic	-2128	ID=evm.model.Herato0101.746-E1;Parent=evm.model.Herato0101.746								
+692	Herato2101	11273026	11273554	+	0	NA	Intergenic	Intergenic	9584	ID=evm.model.Herato2101.384-E5;Parent=evm.model.Herato2101.384								
+255	Herato1301	4223539	4224032	+	0	NA	Intergenic	Intergenic	3039	ID=evm.model.Herato1301.115-E3;Parent=evm.model.Herato1301.115								
+271	Herato1301	14502455	14502718	+	0	NA	TTS (ID=evm.model.Herato1301.545-E10;Parent=evm.model.Herato1301.545)	-TTS (ID=evm.model.Herato1301.545-E10;Parent=evm.model.Herato1301.545)	782	ID=evm.model.Herato1301.545-E10;Parent=evm.model.Herato1301.545								
+34	Herato0801	141539	141834	+	0	NA	Intergenic	Intergenic	49865	ID=evm.model.Herato0801.5-E4;Parent=evm.model.Herato0801.5								
+405	Herato1910	638721	639224	+	0	NA	Intergenic	Intergenic	3453	ID=evm.model.Herato1910.53-E12;Parent=evm.model.Herato1910.53								
+354	Herato1605	1085811	1087525	+	0	NA	Intergenic	Intergenic	23345	ID=evm.model.Herato1605.35-E1;Parent=evm.model.Herato1605.35								
+328	Herato0503	1082761	1083103	+	0	NA	Intergenic	Intergenic	-4398	ID=evm.model.Herato0503.37.1-E5;Parent=evm.model.Herato0503.37.1								
+338	Herato0503	8039220	8039674	+	0	NA	Intergenic	Intergenic	-1571	ID=evm.model.Herato0503.300-E5;Parent=evm.model.Herato0503.300								
+636	Herato1703	216257	216617	+	0	NA	Intergenic	Intergenic	-1877	ID=evm.model.Herato1703.2-E2;Parent=evm.model.Herato1703.2								
+147	Herato1507	2835979	2836222	+	0	NA	promoter-TSS (ID=evm.model.Herato1507.94-E3;Parent=evm.model.Herato1507.94)	-promoter-TSS (ID=evm.model.Herato1507.94-E3;Parent=evm.model.Herato1507.94)	227	ID=evm.model.Herato1507.94-E2;Parent=evm.model.Herato1507.94								
+670	Herato1904	5760718	5761067	+	0	NA	Intergenic	Intergenic	55504	ID=evm.model.Herato1904.210-E2;Parent=evm.model.Herato1904.210								
+309	Herato1411	1551983	1552496	+	0	NA	Intergenic	Intergenic	3546	ID=evm.model.Herato1411.43-E1;Parent=evm.model.Herato1411.43								
+626	Herato1701	1000043	1000735	+	0	NA	Intergenic	Intergenic	-127885	ID=evm.model.Herato1701.34-E1;Parent=evm.model.Herato1701.34								
+617	Herato1603	2310735	2311461	+	0	NA	Intergenic	Intergenic	40772	ID=evm.model.Herato1603.63-E4;Parent=evm.model.Herato1603.63								
+390	Herato0503	7802305	7802459	+	0	NA	Intergenic	Intergenic	-3996	ID=evm.model.Herato0503.295-E1;Parent=evm.model.Herato0503.295								
+372	Herato0503	1074515	1076145	+	0	NA	Intergenic	Intergenic	3002	ID=evm.model.Herato0503.37.3-E3;Parent=evm.model.Herato0503.37.3								
+107	Herato0901	5391673	5392292	+	0	NA	Intergenic	Intergenic	-7286	ID=evm.model.Herato0901.146-E1;Parent=evm.model.Herato0901.146								
+498	Herato0701	14545451	14545974	+	0	NA	Intergenic	Intergenic	4120	ID=evm.model.Herato0701.664.1-E2;Parent=evm.model.Herato0701.664.1								
+349	Herato1603	1971467	1971890	+	0	NA	Intergenic	Intergenic	-44727	ID=evm.model.Herato1603.59-E1;Parent=evm.model.Herato1603.59								
+571	Herato1202	15609595	15609985	+	0	NA	TTS (ID=evm.model.Herato1202.605-E4;Parent=evm.model.Herato1202.605)	-TTS (ID=evm.model.Herato1202.605-E4;Parent=evm.model.Herato1202.605)	986	ID=evm.model.Herato1202.605-E4;Parent=evm.model.Herato1202.605								
+160	Herato1005	3795775	3796155	+	0	NA	Intergenic	Intergenic	-1200	ID=evm.model.Herato1005.185-E3;Parent=evm.model.Herato1005.185								
+555	Herato1108	5824145	5825206	+	0	NA	Intergenic	Intergenic	-6759	ID=evm.model.Herato1108.245-E1;Parent=evm.model.Herato1108.245								
+445	Herato0310	5406278	5406756	+	0	NA	Intergenic	Intergenic	-37395	ID=evm.model.Herato0310.128-E1;Parent=evm.model.Herato0310.128								
+30	Herato0606	8406803	8407142	+	0	NA	Intergenic	Intergenic	-54054	ID=evm.model.Herato0606.267-E1;Parent=evm.model.Herato0606.267								
+267	Herato1301	14378173	14378836	+	0	NA	Intergenic	Intergenic	-18938	ID=evm.model.Herato1301.538-E1;Parent=evm.model.Herato1301.538								
+324	Herato1904	4817487	4818018	+	0	NA	Intergenic	Intergenic	20201	ID=evm.model.Herato1904.167-E5;Parent=evm.model.Herato1904.167								
+334	Herato1507	9747399	9747900	+	0	NA	TTS (ID=evm.model.Herato1507.325-E2;Parent=evm.model.Herato1507.325)	-TTS (ID=evm.model.Herato1507.325-E2;Parent=evm.model.Herato1507.325)	1290	ID=evm.model.Herato1507.325-E2;Parent=evm.model.Herato1507.325								
+599	Herato1301	21080611	21081024	+	0	NA	Intergenic	Intergenic	3343	ID=evm.model.Herato1301.721-E2;Parent=evm.model.Herato1301.721								
+358	Herato2001	2680429	2681605	+	0	NA	TTS (ID=evm.model.Herato2001.82-E2;Parent=evm.model.Herato2001.82)	-TTS (ID=evm.model.Herato2001.82-E2;Parent=evm.model.Herato2001.82)	1087	ID=evm.model.Herato2001.82-E2;Parent=evm.model.Herato2001.82								
+656	Herato1805	5762945	5763315	+	0	NA	Intergenic	Intergenic	45736	ID=evm.model.Herato1805.157-E2;Parent=evm.model.Herato1805.157								
+587	Herato1301	13948845	13949212	+	0	NA	Intergenic	Intergenic	84037	ID=evm.model.Herato1301.535-E11;Parent=evm.model.Herato1301.535								
+111	Herato1202	19161900	19162393	+	0	NA	Intergenic	Intergenic	17303	ID=evm.model.Herato1202.776-E1;Parent=evm.model.Herato1202.776								
+200	Herato1910	1021050	1021272	+	0	NA	Intergenic	Intergenic	2381	ID=evm.model.Herato1910.72-E3;Parent=evm.model.Herato1910.72								
+540	Herato1003	6332118	6332536	+	0	NA	Intergenic	Intergenic	11494	ID=evm.model.Herato1003.207-E7;Parent=evm.model.Herato1003.207								
+450	Herato0310	5607804	5608268	+	0	NA	Intergenic	Intergenic	11421	ID=evm.model.Herato0310.131-E2;Parent=evm.model.Herato0310.131								
+29	Herato1408	1245573	1246745	+	0	NA	promoter-TSS (ID=evm.model.Herato1408.34-E3;Parent=evm.model.Herato1408.34)	-promoter-TSS (ID=evm.model.Herato1408.34-E3;Parent=evm.model.Herato1408.34)	-511	ID=evm.model.Herato1408.34-E3;Parent=evm.model.Herato1408.34								
+235	Herato1701	6542989	6543536	+	0	NA	TTS (ID=evm.model.Herato1701.188-E6;Parent=evm.model.Herato1701.188)	-TTS (ID=evm.model.Herato1701.188-E6;Parent=evm.model.Herato1701.188)	145	ID=evm.model.Herato1701.188-E6;Parent=evm.model.Herato1701.188								
+225	Herato1904	3370275	3370497	+	0	NA	Intergenic	Intergenic	-38326	ID=evm.model.Herato1904.118-E1;Parent=evm.model.Herato1904.118								
+601	Herato1301	21369669	21369882	+	0	NA	Intergenic	Intergenic	-5052	ID=evm.model.Herato1301.727.2-E1;Parent=evm.model.Herato1301.727.2								
+240	Herato1905	329011	329693	+	0	NA	Intergenic	Intergenic	-64355	ID=evm.model.Herato1905.13-E1;Parent=evm.model.Herato1905.13								
+535	Herato1001	4323682	4324019	+	0	NA	Intergenic	Intergenic	1992	ID=evm.model.Herato1001.139-E1;Parent=evm.model.Herato1001.139								
+494	Herato0701	10983875	10984163	+	0	NA	Intergenic	Intergenic	-16749	ID=evm.model.Herato0701.468-E5;Parent=evm.model.Herato0701.468								
+525	Herato0901	6210259	6210569	+	0	NA	Intergenic	Intergenic	16450	ID=evm.model.Herato0901.205-E10;Parent=evm.model.Herato0901.205								
+59	Herato0701	12252274	12253040	+	0	NA	Intergenic	Intergenic	-1117	ID=evm.model.Herato0701.562-E1;Parent=evm.model.Herato0701.562								
+413	Herato0101	7442711	7443075	+	0	NA	Intergenic	Intergenic	-1025	ID=evm.model.Herato0101.228.3.1-E2;Parent=evm.model.Herato0101.228.3.1								
+567	Herato1202	14789534	14790050	+	0	NA	Intergenic	Intergenic	-1232	ID=evm.model.Herato1202.572-E6;Parent=evm.model.Herato1202.572								
+641	Herato1801	1391696	1392223	+	0	NA	Intergenic	Intergenic	-35475	ID=evm.model.Herato1801.65.1-E1;Parent=evm.model.Herato1801.65.1								
+287	Herato1910	3569917	3570558	+	0	NA	Intergenic	Intergenic	-18337	ID=evm.model.Herato1910.160-E1;Parent=evm.model.Herato1910.160								
+500	Herato0701	14593588	14594858	+	0	NA	Intergenic	Intergenic	-8835	ID=evm.model.Herato0701.665-E2;Parent=evm.model.Herato0701.665								
+299	Herato1703	256396	256945	+	0	NA	Intergenic	Intergenic	1639	ID=evm.model.Herato1703.2.1-E3;Parent=evm.model.Herato1703.2.1								
+681	Herato2001	9812439	9812723	+	0	NA	Intergenic	Intergenic	-23304	ID=evm.model.Herato2001.394-E1;Parent=evm.model.Herato2001.394								
+247	Herato1301	1348762	1349229	+	0	NA	Intergenic	Intergenic	54443	ID=evm.model.Herato1301.36-E12;Parent=evm.model.Herato1301.36								
+280	Herato0101	3888819	3889017	+	0	NA	Intergenic	Intergenic	-18161	ID=evm.model.Herato0101.118-E1;Parent=evm.model.Herato0101.118								
+507	Herato0701	14778033	14778376	+	0	NA	Intergenic	Intergenic	-104629	ID=evm.model.Herato0701.666.2-E1;Parent=evm.model.Herato0701.666.2								
+171	Herato1007	4653227	4653618	+	0	NA	Intergenic	Intergenic	1581	ID=evm.model.Herato1007.186-E3;Parent=evm.model.Herato1007.186								
+560	Herato1108	14276372	14276849	+	0	NA	TTS (ID=evm.model.Herato1108.610-E4;Parent=evm.model.Herato1108.610)	-TTS (ID=evm.model.Herato1108.610-E4;Parent=evm.model.Herato1108.610)	525	ID=evm.model.Herato1108.610.2-E4;Parent=evm.model.Herato1108.610.2								
+155	Herato1005	1588980	1589520	+	0	NA	Intergenic	Intergenic	7751	ID=evm.model.Herato1005.80.1-E1;Parent=evm.model.Herato1005.80.1								
+580	Herato1301	9643367	9643610	+	0	NA	Intergenic	Intergenic	57816	ID=evm.model.Herato1301.385-E14;Parent=evm.model.Herato1301.385								
+207	Herato1801	250080	250392	+	0	NA	Intergenic	Intergenic	-3510	ID=evm.model.Herato1801.16-E5;Parent=evm.model.Herato1801.16								
+473	Herato0601	3044146	3044621	+	0	NA	Intergenic	Intergenic	-82795	ID=evm.model.Herato0601.74-E1;Parent=evm.model.Herato0601.74								
+260	Herato0411	2300735	2300979	+	0	NA	Intergenic	Intergenic	132602	ID=evm.model.Herato0411.38-E8;Parent=evm.model.Herato0411.38								
+89	Herato0801	8339568	8339900	+	0	NA	TTS (ID=evm.model.Herato0801.281-E4;Parent=evm.model.Herato0801.281)	-TTS (ID=evm.model.Herato0801.281-E4;Parent=evm.model.Herato0801.281)	377	ID=evm.model.Herato0801.281-E5;Parent=evm.model.Herato0801.281								
+661	Herato1807	1215915	1216346	+	0	NA	Intergenic	Intergenic	10938	ID=evm.model.Herato1807.23-E2;Parent=evm.model.Herato1807.23								
+457	Herato0411	5077366	5077965	+	0	NA	promoter-TSS (ID=evm.model.Herato0411.116.1-E5;Parent=evm.model.Herato0411.116.1)	-promoter-TSS (ID=evm.model.Herato0411.116.1-E5;Parent=evm.model.Herato0411.116.1)	293	ID=evm.model.Herato0411.116-E5;Parent=evm.model.Herato0411.116								
+623	Herato1605	1385462	1385800	+	0	NA	promoter-TSS (ID=evm.model.Herato1605.44-E2;Parent=evm.model.Herato1605.44)	-promoter-TSS (ID=evm.model.Herato1605.44-E2;Parent=evm.model.Herato1605.44)	-579	ID=evm.model.Herato1605.44-E2;Parent=evm.model.Herato1605.44								
+633	Herato1701	8680645	8680950	+	0	NA	Intergenic	Intergenic	-9420	ID=evm.model.Herato1701.269-E1;Parent=evm.model.Herato1701.269								
+547	Herato1007	2929373	2929651	+	0	NA	Intergenic	Intergenic	6797	ID=evm.model.Herato1007.106-E3;Parent=evm.model.Herato1007.106								
+397	Herato0101	4670331	4670640	+	0	NA	Intergenic	Intergenic	55805	ID=evm.model.Herato0101.137-E23;Parent=evm.model.Herato0101.137								
+389	Herato1908	2187445	2187854	+	0	NA	Intergenic	Intergenic	5034	ID=evm.model.Herato1908.111-E2;Parent=evm.model.Herato1908.111								
+610	Herato1411	6671134	6671533	+	0	NA	Intergenic	Intergenic	-3525	ID=evm.model.Herato1411.246.3-E4;Parent=evm.model.Herato1411.246.3								
+485	Herato0701	4586657	4587139	+	0	NA	Intergenic	Intergenic	4229	ID=evm.model.Herato0701.219-E1;Parent=evm.model.Herato0701.219								
+125	Herato1301	7619331	7619517	+	0	NA	Intergenic	Intergenic	2305	ID=evm.model.Herato1301.308-E2;Parent=evm.model.Herato1301.308								
+135	Herato1301	13898757	13899092	+	0	NA	Intergenic	Intergenic	33933	ID=evm.model.Herato1301.535-E11;Parent=evm.model.Herato1301.535								
+3	Herato0508	1354502	1354786	+	0	NA	Intergenic	Intergenic	-34167	ID=evm.model.Herato0508.60-E1;Parent=evm.model.Herato0508.60								
+19	Herato0606	3124049	3124285	+	0	NA	Intergenic	Intergenic	-29569	ID=evm.model.Herato0606.100-E1;Parent=evm.model.Herato0606.100								
+416	Herato0101	9121896	9122267	+	0	NA	Intergenic	Intergenic	14442	ID=evm.model.Herato0101.279-E3;Parent=evm.model.Herato0101.279								
+167	Herato0214	775155	775635	+	0	NA	Intergenic	Intergenic	-13876	ID=evm.model.Herato0214.43_evm.model.Herato0214.44_evm.model.Herato0214.46-E5;Parent=evm.model.Herato0214.43_evm.model.Herato0214.44_evm.model.Herato0214.46								
+36	Herato0609	132486	132985	+	0	NA	promoter-TSS (ID=evm.model.Herato0609.13-E1;Parent=evm.model.Herato0609.13)	-promoter-TSS (ID=evm.model.Herato0609.13-E1;Parent=evm.model.Herato0609.13)	-186	ID=evm.model.Herato0609.13.3-E1;Parent=evm.model.Herato0609.13.3								
+100	Herato0901	2194890	2195186	+	0	NA	Intergenic	Intergenic	17329	ID=evm.model.Herato0901.75-E2;Parent=evm.model.Herato0901.75								
+211	Herato2001	697531	697738	+	0	NA	Intergenic	Intergenic	-25190	ID=evm.model.Herato2001.17-E1;Parent=evm.model.Herato2001.17								
+38	Herato0701	2929418	2929808	+	0	NA	Intergenic	Intergenic	-2498	ID=evm.model.Herato0701.162-E2;Parent=evm.model.Herato0701.162								
+312	Herato2001	8670073	8670330	+	0	NA	TTS (ID=evm.model.Herato2001.368-E6;Parent=evm.model.Herato2001.368)	-TTS (ID=evm.model.Herato2001.368-E6;Parent=evm.model.Herato2001.368)	150	ID=evm.model.Herato2001.368-E7;Parent=evm.model.Herato2001.368								
+199	Herato1202	1767805	1768377	+	0	NA	Intergenic	Intergenic	1098	ID=evm.model.Herato1202.63.4-E3;Parent=evm.model.Herato1202.63.4								
+437	Herato0211	93421	93842	+	0	NA	Intergenic	Intergenic	2946	ID=evm.model.Herato0211.1.1-E5;Parent=evm.model.Herato0211.1.1								
+653	Herato1805	3659232	3659456	+	0	NA	Intergenic	Intergenic	85649	ID=evm.model.Herato1805.103-E1;Parent=evm.model.Herato1805.103								
+511	Herato0801	152591	153416	+	0	NA	Intergenic	Intergenic	61182	ID=evm.model.Herato0801.5-E4;Parent=evm.model.Herato0801.5								
+427	Herato0101	18488889	18489355	+	0	NA	Intergenic	Intergenic	-5216	ID=evm.model.Herato0101.736-E1;Parent=evm.model.Herato0101.736								
+187	Herato1904	4816849	4817033	+	0	NA	Intergenic	Intergenic	21012	ID=evm.model.Herato1904.167-E5;Parent=evm.model.Herato1904.167								
+465	Herato0601	1017303	1018926	+	0	NA	Intergenic	Intergenic	-100977	ID=evm.model.Herato0601.11-E1;Parent=evm.model.Herato0601.11								
+677	Herato2001	988317	988543	+	0	NA	promoter-TSS (ID=evm.model.Herato2001.18-E2;Parent=evm.model.Herato2001.18)	-promoter-TSS (ID=evm.model.Herato2001.18-E2;Parent=evm.model.Herato2001.18)	-286	ID=evm.model.Herato2001.18-E2;Parent=evm.model.Herato2001.18								
+140	Herato1301	14350173	14350488	+	0	NA	Intergenic	Intergenic	-32534	ID=evm.model.Herato1301.537-E1;Parent=evm.model.Herato1301.537								
+369	Herato2001	17078971	17079213	+	0	NA	Intergenic	Intergenic	-4406	ID=evm.model.Herato2001.662-E2;Parent=evm.model.Herato2001.662								
+229	Herato1701	3495625	3495786	+	0	NA	Intergenic	Intergenic	4755	ID=evm.model.Herato1701.73-E1;Parent=evm.model.Herato1701.73								
+350	Herato0310	5271551	5272074	+	0	NA	Intergenic	Intergenic	64556	ID=evm.model.Herato0310.123-E3;Parent=evm.model.Herato0310.123								
+239	Herato1805	7146925	7147089	+	0	NA	Intergenic	Intergenic	-5048	ID=evm.model.Herato1805.205-E1;Parent=evm.model.Herato1805.205								
+208	Herato0101	19853471	19853738	+	0	NA	Intergenic	Intergenic	-11857	ID=evm.model.Herato0101.767-E1;Parent=evm.model.Herato0101.767								
+674	Herato1908	1677853	1678539	+	0	NA	Intergenic	Intergenic	3701	ID=evm.model.Herato1908.54.7-E1;Parent=evm.model.Herato1908.54.7								
+52	Herato0701	8840357	8841125	+	0	NA	Intergenic	Intergenic	-88438	ID=evm.model.Herato0701.374-E1;Parent=evm.model.Herato0701.374								
+91	Herato0821	945985	946254	+	0	NA	Intergenic	Intergenic	-22403	ID=evm.model.Herato0821.45-E1;Parent=evm.model.Herato0821.45								
+53	Herato0701	8982538	8982898	+	0	NA	Intergenic	Intergenic	52441	ID=evm.model.Herato0701.375-E9;Parent=evm.model.Herato0701.375								
+434	Herato0101	21402420	21403756	+	0	NA	Intergenic	Intergenic	-12861	ID=evm.model.Herato0101.829-E2;Parent=evm.model.Herato0101.829								
+595	Herato1301	16422874	16423283	+	0	NA	Intergenic	Intergenic	8463	ID=evm.model.Herato1301.590-E1;Parent=evm.model.Herato1301.590								
+424	Herato0101	14437446	14437866	+	0	NA	Intergenic	Intergenic	-52760	ID=evm.model.Herato0101.514-E1;Parent=evm.model.Herato0101.514								
+184	Herato1108	5613556	5614007	+	0	NA	Intergenic	Intergenic	-6240	ID=evm.model.Herato1108.241-E1;Parent=evm.model.Herato1108.241								
+458	Herato0411	5190405	5190706	+	0	NA	Intergenic	Intergenic	5606	ID=evm.model.Herato0411.120-E4;Parent=evm.model.Herato0411.120								
+548	Herato1007	3802811	3803499	+	0	NA	Intergenic	Intergenic	4615	ID=evm.model.Herato1007.144-E2;Parent=evm.model.Herato1007.144								
+295	Herato0503	6526891	6527415	+	0	NA	Intergenic	Intergenic	27317	ID=evm.model.Herato0503.229-E10;Parent=evm.model.Herato0503.229								
+22	Herato0606	5425902	5426113	+	0	NA	promoter-TSS (ID=evm.model.Herato0606.181-E1;Parent=evm.model.Herato0606.181)	-promoter-TSS (ID=evm.model.Herato0606.181-E1;Parent=evm.model.Herato0606.181)	-570	ID=evm.model.Herato0606.181-E1;Parent=evm.model.Herato0606.181								
+23	Herato0606	5556306	5556720	+	0	NA	Intergenic	Intergenic	1937	ID=evm.model.Herato0606.187-E4;Parent=evm.model.Herato0606.187								
+313	Herato0411	1331504	1331756	+	0	NA	Intergenic	Intergenic	13981	ID=evm.model.Herato0411.29-E3;Parent=evm.model.Herato0411.29								
+652	Herato1805	3608198	3608897	+	0	NA	Intergenic	Intergenic	34852	ID=evm.model.Herato1805.103-E1;Parent=evm.model.Herato1805.103								
+248	Herato1301	1460869	1462058	+	0	NA	Intergenic	Intergenic	-2339	ID=evm.model.Herato1301.37-E2;Parent=evm.model.Herato1301.37								
+164	Herato1807	1021534	1021937	+	0	NA	Intergenic	Intergenic	-11804	ID=evm.model.Herato1807.18-E2;Parent=evm.model.Herato1807.18								
+508	Herato0701	14810500	14810708	+	0	NA	Intergenic	Intergenic	-72229	ID=evm.model.Herato0701.666.2-E1;Parent=evm.model.Herato0701.666.2								
+529	Herato0901	11560330	11560781	+	0	NA	Intergenic	Intergenic	10204	ID=evm.model.Herato0901.347-E1;Parent=evm.model.Herato0901.347								
+539	Herato1003	6124431	6124743	+	0	NA	Intergenic	Intergenic	-2377	ID=evm.model.Herato1003.199.4-E5;Parent=evm.model.Herato1003.199.4								
+394	Herato0310	9668078	9668375	+	0	NA	Intergenic	Intergenic	3011	ID=evm.model.Herato0310.296-E7;Parent=evm.model.Herato0310.296								
+305	Herato0401	1128792	1129142	+	0	NA	Intergenic	Intergenic	4954	ID=evm.model.Herato0401.20-E1;Parent=evm.model.Herato0401.20								
+44	Herato0701	6728298	6728496	+	0	NA	Intergenic	Intergenic	4733	ID=evm.model.Herato0701.303-E2;Parent=evm.model.Herato0701.303								
+55	Herato0701	10976675	10977539	+	0	NA	Intergenic	Intergenic	-9837	ID=evm.model.Herato0701.468-E5;Parent=evm.model.Herato0701.468								
+454	Herato0411	1086096	1086561	+	0	NA	Intergenic	Intergenic	-3580	ID=evm.model.Herato0411.19-E4;Parent=evm.model.Herato0411.19								
+544	Herato1005	2485651	2486048	+	0	NA	Intergenic	Intergenic	1546	ID=evm.model.Herato1005.124-E19;Parent=evm.model.Herato1005.124								
+438	Herato0301	4359159	4359604	+	0	NA	Intergenic	Intergenic	34590	ID=evm.model.Herato0301.106-E2;Parent=evm.model.Herato0301.106								
+70	Herato0701	17625236	17625405	+	0	NA	Intergenic	Intergenic	-25885	ID=evm.model.Herato0701.739.3-E1;Parent=evm.model.Herato0701.739.3								
+428	Herato0101	18578850	18579205	+	0	NA	Intergenic	Intergenic	-1568	ID=evm.model.Herato0101.738-E1;Parent=evm.model.Herato0101.738								
+188	Herato0501	1230789	1231429	+	0	NA	Intergenic	Intergenic	-1677	ID=evm.model.Herato0501.58-E18;Parent=evm.model.Herato0501.58								
+409	Herato0101	5757294	5757640	+	0	NA	Intergenic	Intergenic	11047	ID=evm.model.Herato0101.159.1-E3;Parent=evm.model.Herato0101.159.1								
+330	Herato1701	5178653	5179012	+	0	NA	TTS (ID=evm.model.Herato1701.127-E2;Parent=evm.model.Herato1701.127)	-TTS (ID=evm.model.Herato1701.127-E2;Parent=evm.model.Herato1701.127)	433	ID=evm.model.Herato1701.127.2-E3;Parent=evm.model.Herato1701.127.2								
+376	Herato1908	586344	586600	+	0	NA	TTS (ID=evm.model.Herato1908.24-E7;Parent=evm.model.Herato1908.24)	-TTS (ID=evm.model.Herato1908.24-E7;Parent=evm.model.Herato1908.24)	549	ID=evm.model.Herato1908.24-E7;Parent=evm.model.Herato1908.24								
+259	Herato1801	1933498	1933953	+	0	NA	promoter-TSS (ID=evm.model.Herato1801.83-E2;Parent=evm.model.Herato1801.83)	-promoter-TSS (ID=evm.model.Herato1801.83-E2;Parent=evm.model.Herato1801.83)	-950	ID=evm.model.Herato1801.83-E2;Parent=evm.model.Herato1801.83								
+320	Herato2001	6570282	6570487	+	0	NA	Intergenic	Intergenic	1793	ID=evm.model.Herato2001.236-E1;Parent=evm.model.Herato2001.236								
+678	Herato2001	1483011	1483774	+	0	NA	Intergenic	Intergenic	1341	ID=evm.model.Herato2001.28.1-E5;Parent=evm.model.Herato2001.28.1								
+204	Herato1910	2187956	2188351	+	0	NA	Intergenic	Intergenic	-21116	ID=evm.model.Herato1910.131-E1;Parent=evm.model.Herato1910.131								
+74	Herato0701	18760643	18761162	+	0	NA	Intergenic	Intergenic	-34664	ID=evm.model.Herato0701.761-E1;Parent=evm.model.Herato0701.761								
+449	Herato0310	5524945	5525221	+	0	NA	Intergenic	Intergenic	-33210	ID=evm.model.Herato0310.130-E1;Parent=evm.model.Herato0310.130								
+398	Herato0101	3565467	3565803	+	0	NA	Intergenic	Intergenic	93406	ID=evm.model.Herato0101.115-E21;Parent=evm.model.Herato0101.115								
+472	Herato0601	1174887	1175611	+	0	NA	Intergenic	Intergenic	31251	ID=evm.model.Herato0601.12-E4;Parent=evm.model.Herato0601.12								
+559	Herato1108	12569723	12570604	+	0	NA	Intergenic	Intergenic	-14283	ID=evm.model.Herato1108.526-E3;Parent=evm.model.Herato1108.526								
+40	Herato1901	1842785	1843062	+	0	NA	Intergenic	Intergenic	-4233	ID=evm.model.Herato1901.44-E1;Parent=evm.model.Herato1901.44								
+345	Herato1705	35238	35481	+	0	NA	Intergenic	Intergenic	-4480	ID=evm.model.Herato1705.3-E4;Parent=evm.model.Herato1705.3								
+504	Herato0701	14612689	14613192	+	0	NA	Intergenic	Intergenic	4498	ID=evm.model.Herato0701.665-E1;Parent=evm.model.Herato0701.665								
+168	Herato1411	350126	350382	+	0	NA	Intergenic	Intergenic	12567	ID=evm.model.Herato1411.5_evm.model.Herato1411.6-E2;Parent=evm.model.Herato1411.5_evm.model.Herato1411.6								
+244	Herato1301	1074580	1074866	+	0	NA	Intergenic	Intergenic	18933	ID=evm.model.Herato1301.33.1-E1;Parent=evm.model.Herato1301.33.1								
+25	Herato0606	5705952	5706335	+	0	NA	promoter-TSS (ID=evm.model.Herato0606.193-E5;Parent=evm.model.Herato0606.193)	-promoter-TSS (ID=evm.model.Herato0606.193-E5;Parent=evm.model.Herato0606.193)	-685	ID=evm.model.Herato0606.193-E5;Parent=evm.model.Herato0606.193								
+622	Herato1605	297451	297777	+	0	NA	Intergenic	Intergenic	1101	ID=evm.model.Herato1605.21-E1;Parent=evm.model.Herato1605.21								
+632	Herato1701	8124195	8124623	+	0	NA	promoter-TSS (ID=evm.model.Herato1701.248-E5;Parent=evm.model.Herato1701.248)	-promoter-TSS (ID=evm.model.Herato1701.248-E5;Parent=evm.model.Herato1701.248)	-141	ID=evm.model.Herato1701.248-E5;Parent=evm.model.Herato1701.248								
+490	Herato0701	9003530	9003796	+	0	NA	Intergenic	Intergenic	31496	ID=evm.model.Herato0701.375-E9;Parent=evm.model.Herato0701.375								
