@@ -131,7 +131,41 @@ Run_bedgraphs_map_to_PAN_postprocessing.sh
 ```
 
 ### 8. Differential expression analyses
+
+Download data
 ```
+Download_RNAseq_data.sh
+```
+
+Map RNA-seq reads and count gene expression.
+```
+Run_mapping.sh
+Run_count.sh
+```
+
+Create counts table from individual sample mappings.
+```
+Create_counts_tables.R
+```
+
+Differential expression forewing versus hindwing.
+```
+diff_expression_analysis_FWHW.R
+```
+
+Volcano plots with highlighted genes near DA peaks.
+```
+diff_expression_volcano_FWHW.R
+```
+
+Identify genes with shared expression patterns forewing versus hindwing.
+```
+shared_genes_with_peaks.R
+```
+
+Differential expression forewing sections.
+```
+diff_expression_analysis_sections.R
 ```
 
 ### 9. ATAC-seq peak conservation

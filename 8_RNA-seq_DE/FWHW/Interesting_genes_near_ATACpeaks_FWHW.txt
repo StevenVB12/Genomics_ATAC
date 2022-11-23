@@ -1,0 +1,11 @@
+Time	era	melp	abbrev	descr
+FW_5th	evm.model.Herato0701.167	HMEL037395g1.t2	Dll	homeotic protein distal-less isoform X1
+FW_5th	evm.model.Herato1807.48.1	HMEL016588g4.t1	pan	protein pangolin, isoforms A/H/I/S isoform X1
+HW_5th	evm.model.Herato0310.123	HMEL025056-RA	Ubx	homeotic protein ultrabithorax
+FW_D1	evm.model.Herato1904.210	HMEL005995g1.t1	ds	protein dachsous
+HW_D1	evm.model.Herato0101.745	HMEL033075g1.t1	al	homeobox protein aristaless-like
+HW_D1	evm.model.Herato0310.123	HMEL025056-RA	Ubx	homeotic protein ultrabithorax
+HW_D1	evm.model.Herato0503.298	HMEL017873g1.t1	spen	protein split ends
+HW_D1	evm.model.Herato1507.324	HMEL032927g1.t1	wge	protein winged eye isoform X1
+HW_D1	evm.model.Herato1807.12	HMEL002964g1.t1	ci	transcriptional activator cubitus interruptus isoform X1
+HW_D2	evm.model.Herato0310.123	HMEL025056-RA	Ubx	homeotic protein ultrabithorax
